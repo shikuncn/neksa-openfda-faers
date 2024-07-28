@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/create_tables.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/import_data.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/import_data/backup_generated_import_data.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/import_data/generated_import_data.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/import_data/step1_create_table_simplified.sql" dialect="MySQL" />
+    <file url="PROJECT" dialect="HiveQL" />
+  </component>
+</project>
