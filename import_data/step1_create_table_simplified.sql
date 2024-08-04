@@ -31,6 +31,7 @@ CREATE TABLE faers_drug (
     DRUG_SEQ VARCHAR(255) NOT NULL,
     ROLE_COD VARCHAR(255),
     DRUGNAME TEXT NOT NULL,
+    PROD_AI  VARCHAR(1024),
     PRIMARY KEY (PRIMARYID, CASEID, DRUG_SEQ)
 );
 
@@ -41,6 +42,8 @@ CREATE TABLE faers_reac (
     PRIMARYID VARCHAR(255) NOT NULL,
     CASEID VARCHAR(255) NOT NULL,
     PT TEXT NOT NULL
+    -- ,SOC TEXT NOT NULL
+    -- ,SOC_CODE bigint
 );
 
 -- ---- csv: format ------
@@ -85,3 +88,17 @@ CREATE TABLE faers_rpsr (
     RPSR_COD VARCHAR(255) NOT NULL,
     PRIMARY KEY (PRIMARYID,CASEID,RPSR_COD)
 );
+
+-- - txt
+use faers;
+DROP TABLE IF EXISTS faers.pt_soc_mapping;
+CREATE TABLE faers.pt_soc_mapping (
+    pt_order int,
+    pt_name VARCHAR(255) NOT NULL,
+    pt_code bigint,
+    soc_name VARCHAR(255) NOT NULL,
+    soc_code bigint,
+    PRIMARY KEY (pt_order,pt_code)
+);
+LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/meddra_data/pt_soc_mapping.csv' REPLACE INTO TABLE faers.pt_soc_mapping FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+-- ---
