@@ -35,15 +35,19 @@ where (lower(d1.drugname) like 'ribociclib%'
 group by primaryid, caseid
 ;
 
+
+select caseid, count(distinct primaryid) from faers.ribo_drug_usage
+group by caseid having count(distinct primaryid) > 2
+
 DROP TABLE  if exists faers.ribo_drug_usage;
 CREATE TABLE faers.ribo_drug_usage as
-select primaryid, caseid, DRUG_SEQ, START_DT
+select *
 from faers.faers_drug d1
 where (lower(d1.drugname) like 'ribociclib%'
         OR lower(d1.drugname) like '%kisqali%'
         OR lower(d1.prod_ai) like '%ribociclib%'
         OR lower(d1.prod_ai) like '%kisqali%'
-    ) and lower(d1.role_cod) = 'ps'
+    ) and lower(d1.role_cod) = 'ps';
 
 
 select count(1),count(distinct primaryid),count(distinct caseid) from faers.ribo_drug_usage;
