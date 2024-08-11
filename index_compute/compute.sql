@@ -50,6 +50,18 @@ where (lower(d1.drugname) like 'ribociclib%'
     ) and lower(d1.role_cod) = 'ps';
 
 
+DROP TABLE  if exists faers.ribo_drug_usage_non_ps;
+CREATE TABLE faers.ribo_drug_usage_non_ps as
+select *
+from faers.faers_drug d1
+where (lower(d1.drugname) like 'ribociclib%'
+        OR lower(d1.drugname) like '%kisqali%'
+        OR lower(d1.prod_ai) like '%ribociclib%'
+        OR lower(d1.prod_ai) like '%kisqali%'
+    ) and lower(d1.role_cod) != 'ps';
+
+
+
 select count(1),count(distinct primaryid),count(distinct caseid) from faers.ribo_drug_usage;
 
 -- --------------------
@@ -89,7 +101,7 @@ group by sex order by sex;
 -- -- 查找在drug 但是不在demo 表中的情况
 SELECT *
 FROM faers.abe_caseid_tb
-where caseid not in
+where caseid not in那个疯子疯子一样
 (   select distinct caseid
     from faers.faers_demo
 )
