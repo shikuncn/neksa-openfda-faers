@@ -1,0 +1,3224 @@
+pt,caseid_cnt,primaryid_cnt
+abdominal adhesions,1,2
+abdominal discomfort,337,555
+abdominal distension,140,216
+abdominal hernia,4,6
+abdominal hernia infection,1,1
+abdominal infection,2,4
+abdominal lymphadenopathy,1,1
+abdominal mass,3,7
+abdominal neoplasm,2,2
+abdominal pain,243,400
+abdominal pain lower,16,26
+abdominal pain upper,287,474
+abdominal rigidity,1,1
+abdominal sepsis,1,3
+abdominal tenderness,4,8
+abdominal wall abscess,1,4
+abdominal wall cyst,1,2
+abdominal wall oedema,1,1
+abnormal behaviour,8,22
+abnormal dreams,3,5
+abnormal faeces,9,20
+abnormal loss of weight,3,5
+abnormal organ growth,1,1
+abnormal sensation in eye,3,3
+abnormal weight gain,1,1
+abscess,9,16
+abscess intestinal,1,1
+abscess jaw,2,3
+abscess limb,3,4
+abscess neck,2,4
+abscess oral,1,6
+absence of immediate treatment response,1,1
+acarodermatitis,9,27
+accelerated hypertension,2,4
+accelerated idioventricular rhythm,4,6
+accident,13,22
+accidental exposure to product,1,1
+accidental overdose,3,4
+acetabulum fracture,1,1
+acid base balance abnormal,1,1
+acidosis,3,6
+acne,40,63
+acquired diaphragmatic eventration,2,4
+acquired gene mutation,1,1
+acquired oesophageal web,1,2
+acromegaly,1,2
+actinic keratosis,1,2
+actinomycotic abdominal infection,1,1
+activated partial thromboplastin time prolonged,3,5
+activated partial thromboplastin time ratio decreased,1,3
+activated partial thromboplastin time shortened,1,3
+acute abdomen,1,1
+acute coronary syndrome,7,10
+acute generalised exanthematous pustulosis,2,3
+acute hepatic failure,7,18
+acute hepatitis c,1,1
+acute interstitial pneumonitis,1,1
+acute kidney injury,120,201
+acute left ventricular failure,1,1
+acute lymphocytic leukaemia,1,4
+acute lymphocytic leukaemia recurrent,1,1
+acute myeloid leukaemia,9,10
+acute myocardial infarction,16,25
+acute oesophageal mucosal lesion,1,1
+acute polyneuropathy,1,1
+acute promyelocytic leukaemia,2,4
+acute pulmonary oedema,2,2
+acute respiratory distress syndrome,13,19
+acute respiratory failure,20,24
+acute sinusitis,1,1
+acute stress disorder,2,7
+adenocarcinoma,5,7
+adenocarcinoma gastric,1,1
+adenocarcinoma of colon,2,2
+adenocarcinoma pancreas,1,1
+adenomyosis,1,1
+adjusted calcium decreased,2,8
+adjusted calcium increased,1,1
+adrenal adenoma,1,1
+adrenal gland cancer,1,1
+adrenal mass,2,2
+adrenal neoplasm,2,2
+adverse drug reaction,58,68
+adverse event,9,9
+adverse food reaction,2,3
+adverse reaction,6,8
+affect lability,7,15
+affective disorder,8,16
+ageusia,57,103
+agitation,42,79
+agranulocytosis,6,8
+akathisia,1,1
+alanine aminotransferase,2,2
+alanine aminotransferase abnormal,17,19
+alanine aminotransferase decreased,4,4
+alanine aminotransferase increased,257,450
+alcohol poisoning,1,2
+alcoholic liver disease,1,1
+allergic cough,1,3
+allergic hepatitis,1,1
+allergic sinusitis,3,3
+allergy to arthropod bite,1,1
+alopecia,685,1023
+alpha-1 antitrypsin deficiency,1,1
+altered state of consciousness,4,6
+alveolar aeration excessive,1,1
+alveolitis,2,4
+amaurosis fugax,1,1
+amenorrhoea,2,4
+amino acid level abnormal,1,2
+amnesia,53,105
+amoebiasis,1,1
+anaemia,462,797
+anaemia folate deficiency,1,1
+anaemia macrocytic,4,5
+anaemia vitamin b6 deficiency,1,3
+anaesthesia,1,1
+anal abscess,3,3
+anal cancer,1,1
+anal fissure,6,12
+anal fissure haemorrhage,1,1
+anal fistula,4,4
+anal haemorrhage,8,16
+anal incontinence,8,12
+anal inflammation,1,1
+anaphylactic reaction,4,5
+anaphylactic shock,2,4
+aneurysm,6,8
+anger,12,21
+angina pectoris,24,46
+angina unstable,2,2
+angiodysplasia,2,6
+angioedema,9,14
+angiopathy,2,2
+angular cheilitis,1,1
+anhedonia,1,3
+animal bite,3,4
+animal scratch,1,2
+anisochromia,2,5
+anisocytosis,47,102
+anisomastia,1,1
+ankle fracture,7,27
+anogenital warts,1,3
+anonychia,1,1
+anorectal discomfort,4,14
+anorectal disorder,1,1
+anosmia,21,34
+antimicrobial susceptibility test resistant,1,2
+antineutrophil cytoplasmic antibody decreased,2,2
+antineutrophil cytoplasmic antibody positive,1,1
+antinuclear antibody increased,1,1
+antinuclear antibody positive,3,3
+anuria,4,4
+anxiety,244,426
+anxiety disorder,2,8
+aortic aneurysm,2,3
+aortic arteriosclerosis,6,10
+aortic elongation,1,1
+aortic injury,1,1
+aortic stenosis,3,4
+aortic valve disease,1,4
+aortic valve disease mixed,1,6
+aortic valve incompetence,8,13
+aortic valve sclerosis,1,1
+aortic valve stenosis,4,6
+apathy,22,33
+aphasia,23,34
+aphonia,33,52
+aphthous ulcer,40,79
+aplasia,2,2
+aplastic anaemia,3,8
+apparent death,3,4
+appendicitis,8,10
+appendicitis perforated,1,1
+appendix disorder,1,3
+appetite disorder,9,20
+application site bruise,2,2
+application site discolouration,2,3
+application site discomfort,1,3
+application site erythema,2,2
+application site exfoliation,2,4
+application site inflammation,1,2
+application site injury,2,3
+application site oedema,2,3
+application site pain,4,5
+application site pruritus,1,2
+application site swelling,2,2
+aptyalism,3,5
+arrhythmia,106,183
+arrhythmia supraventricular,2,3
+arterial injury,1,1
+arterial thrombosis,4,4
+arteriosclerosis,9,15
+arteriosclerosis coronary artery,2,2
+arteriospasm coronary,1,1
+arthralgia,493,832
+arthritis,40,63
+arthritis bacterial,1,1
+arthropathy,21,39
+arthropod bite,9,14
+arthropod sting,3,7
+ascites,124,197
+aspartate aminotransferase,2,2
+aspartate aminotransferase abnormal,9,10
+aspartate aminotransferase decreased,2,2
+aspartate aminotransferase increased,247,410
+asphyxia,32,69
+aspiration,5,6
+aspiration pleural cavity,3,3
+ast/alt ratio abnormal,1,1
+asterixis,2,2
+asthenia,751,1118
+asthenopia,1,1
+asthma,26,49
+asthmatic crisis,3,6
+astigmatism,6,17
+"astrocytoma, low grade",1,1
+ataxia,2,2
+atelectasis,11,14
+atrial enlargement,2,2
+atrial fibrillation,151,231
+atrial flutter,7,14
+atrial thrombosis,1,1
+atrioventricular block,6,7
+atrioventricular block complete,3,3
+atrioventricular block first degree,10,31
+atrioventricular block second degree,5,7
+atrioventricular conduction time shortened,5,6
+atrophic vulvovaginitis,3,3
+atrophy,3,7
+atypical pneumonia,7,14
+aura,1,1
+autoimmune colitis,1,1
+autoimmune disorder,1,1
+autoimmune haemolytic anaemia,2,2
+autoimmune hepatitis,16,20
+autoimmune pancreatitis,1,2
+autoimmune thyroiditis,1,2
+autonomic nervous system imbalance,1,2
+autoscopy,1,2
+aversion,5,20
+axillary mass,9,12
+axillary pain,18,31
+azotaemia,5,11
+b-cell lymphoma stage iv,1,1
+back disorder,6,12
+back injury,2,2
+back pain,488,780
+bacteraemia,7,7
+bacterial abdominal infection,1,1
+bacterial infection,22,32
+bacterial pyelonephritis,1,3
+bacterial sepsis,1,1
+bacterial test positive,1,1
+bacteriuria,7,7
+balance disorder,43,67
+barrett's oesophagus,1,2
+bartter's syndrome,1,1
+basal cell carcinoma,3,5
+basal cell carcinoma metastatic,1,1
+basal ganglia infarction,2,4
+base excess increased,1,1
+basophil count abnormal,1,1
+basophil count decreased,3,4
+basophil count increased,16,39
+basophil percentage increased,1,1
+bedridden,4,4
+behaviour disorder,3,3
+bell's palsy,1,1
+benign bone neoplasm,2,2
+benign breast neoplasm,8,13
+benign hydatidiform mole,1,2
+benign lung neoplasm,1,1
+benign lymph node neoplasm,1,1
+benign neoplasm,1,2
+benign neoplasm of skin,1,2
+benign neoplasm of spinal cord,1,1
+benign neoplasm of thyroid gland,1,1
+benign ovarian tumour,1,2
+benign pancreatic hyperenzymaemia,1,1
+bicytopenia,11,13
+bile duct obstruction,2,2
+bile duct stenosis,2,2
+bile output abnormal,1,2
+biliary colic,4,10
+biliary dilatation,4,4
+biliary obstruction,2,2
+biliary sepsis,2,3
+biliary tract disorder,1,1
+bilirubin conjugated abnormal,1,1
+bilirubin conjugated increased,7,13
+biopsy breast,1,1
+biopsy colon,1,1
+bipolar disorder,3,3
+bladder cancer,4,6
+bladder dilatation,1,1
+bladder discomfort,2,3
+bladder disorder,2,2
+bladder injury,1,1
+bladder neoplasm,1,1
+bladder pain,1,1
+bladder spasm,1,1
+blepharitis,1,1
+blindness,33,48
+blindness unilateral,6,8
+blister,87,126
+blister infected,1,1
+blood acid phosphatase increased,2,4
+blood albumin abnormal,3,4
+blood albumin decreased,23,31
+blood albumin increased,3,3
+blood alkaline phosphatase,5,5
+blood alkaline phosphatase abnormal,5,10
+blood alkaline phosphatase decreased,5,6
+blood alkaline phosphatase increased,100,195
+blood antidiuretic hormone increased,1,1
+blood bilirubin,2,2
+blood bilirubin abnormal,12,16
+blood bilirubin decreased,1,5
+blood bilirubin increased,105,147
+blood calcium abnormal,3,5
+blood calcium decreased,58,86
+blood calcium increased,20,28
+blood chloride decreased,5,12
+blood chloride increased,2,2
+blood cholesterol abnormal,13,40
+blood cholesterol decreased,7,9
+blood cholesterol increased,27,54
+blood cholinesterase decreased,1,2
+blood cholinesterase increased,1,2
+blood count,1,1
+blood count abnormal,29,40
+blood creatine abnormal,3,3
+blood creatine increased,16,21
+blood creatine phosphokinase increased,6,12
+blood creatine phosphokinase mb increased,1,1
+blood creatinine,1,1
+blood creatinine abnormal,15,28
+blood creatinine decreased,11,15
+blood creatinine increased,209,364
+blood disorder,24,33
+blood electrolytes abnormal,2,2
+blood electrolytes decreased,9,14
+blood electrolytes increased,4,4
+blood fibrinogen increased,1,1
+blood follicle stimulating hormone decreased,1,1
+blood gases,1,1
+blood glucose abnormal,18,21
+blood glucose decreased,32,37
+blood glucose fluctuation,5,6
+blood glucose increased,106,181
+blood immunoglobulin g increased,2,2
+blood insulin increased,1,1
+blood iron abnormal,2,3
+blood iron decreased,18,22
+blood iron increased,2,6
+blood lactate dehydrogenase,1,1
+blood lactate dehydrogenase abnormal,1,1
+blood lactate dehydrogenase increased,38,65
+blood loss anaemia,2,6
+blood magnesium abnormal,2,5
+blood magnesium decreased,19,33
+blood magnesium increased,3,3
+blood oestrogen abnormal,1,1
+blood oestrogen decreased,2,2
+blood oestrogen increased,4,5
+blood ph decreased,1,1
+blood phosphorus abnormal,1,2
+blood phosphorus decreased,13,18
+blood phosphorus increased,5,8
+blood potassium abnormal,9,23
+blood potassium decreased,39,70
+blood potassium increased,17,38
+blood pressure abnormal,36,64
+blood pressure decreased,37,61
+blood pressure diastolic decreased,4,9
+blood pressure fluctuation,9,13
+blood pressure inadequately controlled,1,1
+blood pressure increased,89,167
+blood pressure systolic decreased,1,2
+blood pressure systolic increased,13,33
+blood smear test abnormal,1,1
+blood sodium abnormal,4,8
+blood sodium decreased,24,44
+blood sodium increased,9,28
+blood test,2,7
+blood test abnormal,63,91
+blood thyroid stimulating hormone abnormal,4,4
+blood thyroid stimulating hormone decreased,2,7
+blood thyroid stimulating hormone increased,11,26
+blood triglycerides abnormal,4,11
+blood triglycerides decreased,3,5
+blood triglycerides increased,14,30
+blood urea abnormal,9,25
+blood urea decreased,3,4
+blood urea increased,44,71
+blood uric acid increased,19,48
+blood urine,1,1
+blood urine present,15,20
+blood viscosity decreased,1,3
+body dysmorphic disorder,1,1
+body height decreased,5,6
+body mass index abnormal,1,1
+body mass index decreased,2,2
+body mass index increased,4,4
+body temperature,1,3
+body temperature abnormal,3,4
+body temperature decreased,6,9
+body temperature fluctuation,2,4
+body temperature increased,27,42
+body tinea,1,1
+bone atrophy,1,2
+bone cancer,74,103
+bone cancer metastatic,5,6
+bone contusion,1,1
+bone cyst,1,1
+bone demineralisation,1,4
+bone density decreased,2,3
+bone density increased,2,2
+bone development abnormal,1,1
+bone disorder,60,106
+bone erosion,1,2
+bone fissure,2,3
+bone formation increased,1,1
+bone hypertrophy,1,1
+bone lesion,93,128
+bone loss,6,10
+bone marrow disorder,11,22
+bone marrow failure,12,12
+bone marrow infiltration,9,12
+bone metabolism disorder,1,2
+bone neoplasm,10,13
+bone pain,294,460
+bone scan,1,3
+bone scan abnormal,1,1
+bone swelling,3,4
+borderline ovarian tumour,1,1
+boredom,3,5
+bowel movement irregularity,3,4
+brachial plexus injury,1,1
+bradyarrhythmia,1,3
+bradycardia,46,78
+bradykinesia,6,10
+bradyphrenia,1,2
+brain compression,1,1
+brain fog,10,14
+brain herniation,3,3
+brain injury,8,14
+brain natriuretic peptide increased,4,14
+brain neoplasm,25,40
+brain neoplasm malignant,1,1
+brain oedema,13,18
+brain stem glioma,1,1
+brain stem haemorrhage,1,1
+brain stem syndrome,1,1
+brca1 gene mutation,2,2
+brca2 gene mutation,2,2
+breast abscess,2,2
+breast atrophy,4,5
+breast calcifications,3,3
+breast cancer,415,486
+breast cancer female,17,18
+breast cancer male,1,1
+breast cancer metastatic,615,738
+breast cancer recurrent,70,104
+breast cancer stage i,1,1
+breast cancer stage iii,2,2
+breast cancer stage iv,20,25
+breast cellulitis,3,8
+breast cyst,7,15
+breast cyst rupture,2,3
+breast discharge,10,15
+breast discolouration,5,6
+breast discomfort,5,5
+breast disorder,32,43
+breast enlargement,10,15
+breast fibrosis,1,3
+breast haemorrhage,13,16
+breast hyperplasia,1,1
+breast induration,4,5
+breast inflammation,13,26
+breast injury,10,19
+breast mass,76,126
+breast neoplasm,15,20
+breast oedema,3,3
+breast pain,86,157
+breast swelling,16,22
+breast tenderness,3,3
+breast ulceration,8,11
+breath odour,2,2
+breath sounds abnormal,3,3
+bronchial disorder,4,10
+bronchial wall thickening,2,3
+bronchiectasis,8,10
+bronchiolitis,2,2
+bronchiolitis obliterans syndrome,1,1
+bronchitis,53,87
+bronchitis chronic,1,1
+bronchospasm,8,13
+bronchostenosis,1,1
+brugada syndrome,1,1
+bruxism,3,3
+bundle branch block left,7,9
+bundle branch block right,10,17
+burn oesophageal,6,10
+burn of internal organs,1,1
+burn oral cavity,2,3
+burning sensation,85,152
+burns second degree,2,4
+burns third degree,1,1
+bursitis,3,3
+buttock claudication,1,2
+buttock injury,2,8
+c-reactive protein abnormal,5,18
+c-reactive protein decreased,1,1
+c-reactive protein increased,52,114
+cachexia,10,14
+calcification metastatic,5,6
+calcinosis,1,1
+calciphylaxis,1,1
+calcium deficiency,6,23
+calcium ionised increased,1,4
+cancer fatigue,1,1
+cancer in remission,7,9
+cancer pain,23,36
+cancer with a high tumour mutational burden,3,3
+candida infection,16,26
+capillary disorder,1,2
+capillary fragility,3,4
+capsular contracture associated with implant,1,2
+carbohydrate antigen 125 increased,9,18
+carbohydrate antigen 15-3,8,14
+carbohydrate antigen 15-3 increased,66,98
+carbohydrate antigen 27.29,2,3
+carbohydrate antigen 27.29 increased,3,3
+carcinoembryonic antigen,1,1
+carcinoembryonic antigen increased,44,64
+carcinoid tumour,1,1
+carcinoma in situ,1,2
+carcinoma in situ of trachea,1,1
+cardiac arrest,62,84
+cardiac asthma,1,1
+cardiac discomfort,4,7
+cardiac disorder,85,126
+cardiac dysfunction,4,6
+cardiac failure,83,126
+cardiac failure acute,4,5
+cardiac failure chronic,1,1
+cardiac failure congestive,17,26
+cardiac fibrillation,4,4
+cardiac flutter,5,7
+cardiac hypertrophy,1,3
+cardiac infection,1,1
+cardiac murmur,2,3
+cardiac tamponade,4,5
+cardiac valve disease,2,3
+cardiac valve sclerosis,1,6
+cardiac ventricular disorder,1,1
+cardio-respiratory arrest,37,39
+cardiogenic shock,2,2
+cardiomegaly,11,12
+cardiomyopathy,9,14
+cardiopulmonary failure,3,3
+cardiotoxicity,15,17
+cardiovascular disorder,12,18
+cardiovascular examination abnormal,1,1
+cardiovascular insufficiency,4,6
+carotid arteriosclerosis,1,1
+carotid artery thrombosis,1,1
+carpal tunnel syndrome,8,20
+cartilage injury,1,1
+cartilage neoplasm,1,1
+cataract,38,76
+cataract diabetic,1,7
+cataract traumatic,1,3
+catarrh,8,9
+catheter site bruise,1,1
+catheter site infection,2,2
+catheter site mass,1,1
+catheter site pain,6,21
+cd4 lymphocytes decreased,1,3
+cd4/cd8 ratio increased,1,2
+cell death,10,10
+cell marker decreased,2,2
+cell marker increased,3,5
+cellulitis,45,83
+central nervous system infection,1,1
+central nervous system lesion,25,43
+central nervous system necrosis,1,1
+cerebellar stroke,1,1
+cerebellar syndrome,1,1
+cerebellar tumour,1,1
+cerebral artery embolism,2,8
+cerebral atrophy,2,3
+cerebral calcification,1,4
+cerebral congestion,1,1
+cerebral cyst haemorrhage,1,1
+cerebral disorder,14,30
+cerebral haematoma,1,1
+cerebral haemorrhage,10,11
+cerebral infarction,8,21
+cerebral ischaemia,4,13
+cerebral microangiopathy,3,5
+cerebral small vessel ischaemic disease,2,2
+cerebral thrombosis,5,10
+cerebral vascular occlusion,1,1
+cerebrovascular accident,125,163
+cervical cyst,2,3
+cervix cancer metastatic,1,2
+cervix carcinoma,2,5
+cervix disorder,3,3
+change of bowel habit,1,3
+chapped lips,10,14
+cheilitis,4,5
+chest discomfort,80,132
+chest injury,8,12
+chest pain,170,273
+chest wall mass,2,2
+chest wall tumour,2,2
+chest x-ray abnormal,3,4
+chillblains,1,1
+chills,131,231
+chloasma,3,6
+choking,42,72
+choking sensation,9,15
+cholangitis,3,9
+cholangitis acute,1,1
+cholangitis sclerosing,1,1
+cholecystectomy,1,1
+cholecystitis,18,25
+cholecystitis acute,5,9
+cholecystitis chronic,4,6
+cholecystitis infective,2,3
+cholelithiasis,33,58
+cholestasis,20,26
+cholesteatoma,1,1
+chondrocalcinosis,1,1
+chondropathy,3,12
+choroidal effusion,1,1
+chromaturia,43,55
+chronic cutaneous lupus erythematosus,1,1
+chronic fatigue syndrome,2,2
+chronic gastritis,4,9
+chronic hepatitis,1,1
+chronic hepatitis b,3,3
+chronic kidney disease,28,53
+chronic obstructive pulmonary disease,26,38
+chronic sinusitis,1,1
+circulatory collapse,9,11
+circumoral oedema,1,1
+circumstance or information capable of leading to medication error,2,3
+clavicle fracture,6,13
+clostridium colitis,1,1
+clostridium difficile colitis,2,2
+clostridium difficile infection,12,17
+coagulopathy,13,25
+coating in mouth,2,3
+coccydynia,3,3
+coeliac disease,1,1
+cognitive disorder,25,32
+cold sweat,5,5
+colitis,42,82
+colitis ischaemic,3,4
+colitis ulcerative,7,8
+colon cancer,5,6
+colon cancer metastatic,1,1
+colon injury,2,3
+colorectal cancer,1,1
+coma,19,20
+coma hepatic,3,3
+communication disorder,3,4
+completed suicide,4,4
+complex regional pain syndrome,1,2
+complication associated with device,1,4
+complication of device removal,1,1
+compression fracture,4,5
+computerised tomogram abnormal,7,10
+computerised tomogram liver abnormal,1,1
+concomitant disease aggravated,38,64
+concomitant disease progression,4,9
+concussion,6,12
+condition aggravated,113,155
+conduction disorder,3,6
+confusional state,105,177
+congenital cystic kidney disease,2,4
+congestive cardiomyopathy,4,5
+conjunctival haemorrhage,1,1
+conjunctivitis,9,21
+connective tissue disorder,1,1
+constipation,564,836
+contraindicated product administered,2,2
+contraindicated product prescribed,2,3
+contrast media allergy,1,3
+contrast media reaction,1,1
+contusion,73,134
+conversion disorder,1,2
+coordination abnormal,6,12
+cor pulmonale,1,1
+cornea verticillata,6,8
+corneal bleeding,1,4
+corneal deposits,2,2
+corneal disorder,1,1
+corneal dystrophy,1,3
+corneal infection,1,1
+coronary artery disease,9,19
+coronary artery stenosis,2,5
+coronavirus infection,17,25
+coronavirus test positive,3,4
+corrosive gastritis,1,2
+cortical laminar necrosis,1,1
+cough,603,927
+covid-19,325,512
+covid-19 pneumonia,11,14
+cranial nerve disorder,1,1
+craniocerebral injury,2,2
+creatinine renal clearance decreased,10,15
+creatinine renal clearance increased,1,1
+crepitations,2,2
+creutzfeldt-jakob disease,1,2
+critical illness,1,1
+crohn's disease,2,3
+crying,48,77
+csf cell count increased,1,1
+culture urine positive,1,1
+cushingoid,1,1
+cutaneous lupus erythematosus,3,3
+cutaneous symptom,1,2
+cutis laxa,1,1
+cyanosis,5,5
+cyp3a4 polymorphism,1,2
+cyst,13,17
+cyst rupture,1,2
+cystitis,44,89
+cystitis haemorrhagic,1,1
+cystitis noninfective,3,6
+cytogenetic analysis abnormal,4,4
+cytomegalovirus infection,4,4
+cytopenia,17,24
+dacryocystitis,2,4
+dacryostenosis acquired,2,3
+dactylitis,1,6
+dairy intolerance,1,1
+dark circles under eyes,12,22
+daydreaming,1,1
+deafness,27,42
+deafness unilateral,2,3
+death,2030,2151
+decreased activity,6,12
+decreased appetite,642,951
+decreased immune responsiveness,463,845
+decreased interest,1,1
+decubitus ulcer,7,13
+deep vein thrombosis,34,49
+defaecation disorder,4,5
+defaecation urgency,1,1
+defect conduction intraventricular,2,4
+deformity,3,10
+deformity thorax,1,1
+degenerative bone disease,1,5
+dehydration,179,253
+delirium,14,19
+delusion,5,12
+dementia,23,27
+dementia alzheimer's type,6,10
+dementia with lewy bodies,1,1
+demyelination,1,2
+dengue fever,10,14
+dental caries,11,33
+dental discomfort,5,13
+dental necrosis,1,1
+dental restoration failure,1,1
+dependence on respirator,1,1
+depressed level of consciousness,6,8
+depressed mood,129,227
+depression,167,287
+depression suicidal,1,1
+derealisation,1,1
+dermal absorption impaired,3,3
+dermal cyst,2,4
+dermatitis,24,43
+dermatitis acneiform,8,19
+dermatitis allergic,18,26
+dermatitis bullous,9,11
+dermatitis contact,2,3
+dermatitis diaper,1,1
+dermatitis exfoliative,4,4
+dermatitis exfoliative generalised,3,4
+dermatomyositis,3,3
+dermatosis,2,5
+desmoid tumour,1,1
+detachment of retinal pigment epithelium,1,1
+device breakage,1,1
+device failure,4,8
+device issue,1,1
+device physical property issue,1,1
+device related infection,14,33
+device related sepsis,1,1
+diabetes mellitus,112,199
+diabetes mellitus inadequate control,4,6
+diabetic coma,4,6
+diabetic foot,1,2
+diabetic ketoacidosis,4,5
+diabetic nephropathy,1,1
+diabetic neuropathy,1,2
+diabetic retinopathy,1,1
+diaphragmalgia,1,5
+diaphragmatic disorder,2,3
+diaphragmatic paralysis,2,3
+diarrhoea,954,1425
+diarrhoea haemorrhagic,6,11
+diarrhoea infectious,2,7
+diastolic dysfunction,5,13
+diet failure,1,1
+differential white blood cell count abnormal,1,1
+diffuse alopecia,2,3
+dilated cardiomyopathy,1,1
+diplegia,5,8
+diplopia,23,44
+disability,1,1
+discharge,6,8
+discoloured vomit,1,1
+discomfort,154,281
+discouragement,34,76
+disease complication,5,6
+disease progression,394,420
+disease recurrence,21,26
+disease susceptibility,1,1
+disorientation,21,33
+disseminated intravascular coagulation,2,3
+disseminated tuberculosis,1,1
+distractibility,3,4
+disturbance in attention,17,30
+diverticulitis,19,33
+diverticulum,5,6
+diverticulum intestinal,2,4
+dizziness,513,843
+dizziness postural,4,5
+drain site complication,1,1
+dreamy state,1,1
+drooling,5,9
+drowning,1,2
+drug dependence,8,11
+drug dose omission,6,6
+drug effect incomplete,2,2
+drug effect less than expected,2,2
+drug eruption,6,7
+drug hypersensitivity,44,55
+drug ineffective,546,660
+drug interaction,41,54
+drug intolerance,206,293
+drug level abnormal,1,1
+drug level decreased,2,2
+drug level increased,2,2
+drug metabolite level,1,3
+drug reaction with eosinophilia and systemic symptoms,7,10
+drug resistance,41,45
+drug tolerance,5,5
+drug tolerance decreased,3,3
+drug withdrawal syndrome,1,1
+drug-induced liver injury,48,72
+dry eye,66,115
+dry mouth,118,201
+dry skin,283,508
+dry throat,18,23
+duodenal perforation,2,2
+duodenal stenosis,1,3
+duodenal ulcer,1,1
+duodenitis,2,3
+dust allergy,2,6
+dysarthria,16,32
+dysbiosis,4,4
+dyschezia,11,16
+dysentery,12,27
+dysgeusia,77,145
+dysgraphia,3,3
+dyskinesia,13,25
+dyslipidaemia,4,4
+dysmenorrhoea,2,2
+dysmetria,1,1
+dysmorphism,1,1
+dyspepsia,175,300
+dysphagia,191,261
+dysphemia,2,3
+dysphonia,81,140
+dyspnoea,746,1073
+dyspnoea at rest,5,7
+dyspnoea exertional,51,105
+dysstasia,83,142
+dysuria,31,48
+ear congestion,1,1
+ear discomfort,3,3
+ear disorder,3,7
+ear haemorrhage,1,1
+ear infection,7,17
+ear inflammation,1,2
+ear injury,1,1
+ear pain,17,27
+ear swelling,1,1
+eastern cooperative oncology group performance status worsened,14,33
+eating disorder,154,256
+eating disorder symptom,2,2
+ebola disease,1,1
+ecchymosis,2,2
+ecg signs of myocardial infarction,1,1
+eczema,12,31
+effusion,5,5
+ejection fraction,1,1
+ejection fraction decreased,10,13
+elbow deformity,3,13
+electric shock sensation,8,12
+electrocardiogram,2,2
+electrocardiogram abnormal,76,119
+electrocardiogram change,4,4
+electrocardiogram low voltage,3,3
+electrocardiogram normal,1,1
+electrocardiogram p wave abnormal,4,6
+electrocardiogram pr shortened,9,11
+electrocardiogram q wave abnormal,1,2
+electrocardiogram q waves,1,3
+electrocardiogram qrs complex abnormal,2,2
+electrocardiogram qrs complex prolonged,5,6
+electrocardiogram qrs complex shortened,1,1
+electrocardiogram qt interval,3,4
+electrocardiogram qt interval abnormal,16,17
+electrocardiogram qt prolonged,385,514
+electrocardiogram qt shortened,4,4
+electrocardiogram repolarisation abnormality,11,16
+electrocardiogram rr interval prolonged,4,6
+electrocardiogram st segment abnormal,3,5
+electrocardiogram st segment depression,3,5
+electrocardiogram st segment elevation,4,7
+electrocardiogram st-t segment abnormal,3,3
+electrocardiogram t wave abnormal,12,16
+electrocardiogram t wave amplitude decreased,3,3
+electrocardiogram t wave inversion,6,8
+electroencephalogram abnormal,2,3
+electrolyte depletion,1,1
+electrolyte imbalance,11,26
+elliptocytosis,29,61
+embolic cerebral infarction,1,1
+embolic stroke,1,1
+embolism,5,7
+embolism arterial,1,1
+emergency care,2,2
+emotional disorder,40,62
+emotional distress,19,35
+emphysema,6,8
+empyema,3,5
+encephalitis,1,1
+encephalopathy,3,4
+end stage renal disease,5,6
+endocardial disease,1,1
+endocarditis,2,2
+endocrine disorder,3,4
+endometrial adenocarcinoma,1,1
+endometrial atrophy,1,1
+endometrial cancer,1,2
+endometrial cancer metastatic,1,3
+endometrial hyperplasia,3,5
+endometrial thickening,3,8
+endometritis,1,6
+energy increased,4,4
+enteritis infectious,1,1
+enterobacter pneumonia,1,1
+enterococcal infection,3,3
+enterocolitis,3,3
+enterocolitis infectious,1,3
+enterovesical fistula,1,2
+enuresis,1,3
+enzyme activity increased,1,1
+enzyme level abnormal,1,2
+enzyme level increased,4,5
+eosinopenia,1,1
+eosinophil count abnormal,2,5
+eosinophil count decreased,9,16
+eosinophil count increased,6,7
+eosinophil percentage decreased,1,1
+eosinophilia,4,5
+eosinophilic oesophagitis,1,1
+ephelides,1,2
+epidermal necrosis,1,1
+epidermolysis,2,8
+epidermolysis bullosa,1,1
+epigastric discomfort,9,13
+epiglottis dysfunction,1,1
+epilepsy,17,49
+epistaxis,109,196
+epstein-barr virus test positive,1,1
+erectile dysfunction,2,3
+erosive oesophagitis,1,2
+eructation,19,34
+erysipelas,41,81
+erythema,201,320
+erythema migrans,1,2
+erythema multiforme,11,13
+erythroblast count,5,8
+erythromelalgia,1,1
+erythropenia,1,5
+eschar,1,1
+escherichia bacteraemia,1,3
+escherichia infection,1,3
+escherichia urinary tract infection,2,6
+excessive granulation tissue,10,17
+exercise tolerance decreased,7,7
+exophthalmos,2,3
+exostosis,4,7
+exostosis of jaw,1,2
+expired product administered,10,14
+exposed bone in jaw,2,3
+exposure to extreme temperature,1,2
+exposure to toxic agent,2,4
+extra dose administered,4,4
+extradural abscess,1,1
+extradural neoplasm,1,1
+extraocular muscle disorder,1,1
+extrasystoles,15,18
+extravasation,1,1
+extremity necrosis,1,2
+eye allergy,6,20
+eye colour change,4,4
+eye discharge,4,4
+eye disorder,37,77
+eye haematoma,1,8
+eye haemorrhage,4,6
+eye infection,6,11
+eye infection bacterial,1,1
+eye inflammation,10,23
+eye injury,2,3
+eye irritation,17,25
+eye movement disorder,5,5
+eye oedema,2,3
+eye pain,26,51
+eye pruritus,26,57
+eye swelling,33,77
+eye ulcer,1,2
+eyelash changes,3,12
+eyelid disorder,6,11
+eyelid infection,2,9
+eyelid margin crusting,4,18
+eyelid oedema,1,1
+eyelid ptosis,1,2
+eyelid rash,1,1
+eyelids pruritus,1,2
+face injury,3,3
+face oedema,11,11
+facet joint syndrome,1,1
+facial asymmetry,1,1
+facial bones fracture,2,4
+facial discomfort,2,2
+facial nerve disorder,2,3
+facial pain,7,14
+facial paralysis,7,8
+facial paresis,1,2
+faecal calprotectin increased,1,1
+faecal vomiting,3,4
+faecaloma,5,14
+faeces discoloured,15,17
+faeces hard,5,9
+faeces pale,3,4
+faeces soft,8,11
+failure to thrive,4,4
+fall,214,378
+fallopian tube cancer,1,1
+fallopian tube disorder,1,1
+false positive investigation result,1,1
+fasciitis,1,3
+fat necrosis,2,2
+fat tissue increased,6,17
+fatigue,1815,2666
+fear,44,82
+fear of disease,1,2
+fear of eating,2,7
+fear of falling,2,2
+fear of weight gain,1,1
+fear-related avoidance of activities,1,2
+febrile bone marrow aplasia,2,2
+febrile infection,4,13
+febrile neutropenia,71,107
+feeding disorder,104,157
+feeling abnormal,377,616
+feeling cold,30,43
+feeling drunk,1,1
+feeling hot,57,96
+feeling jittery,7,11
+feeling of body temperature change,12,22
+feeling of despair,21,34
+feelings of worthlessness,1,2
+female genital tract fistula,1,1
+femoral hernia incarcerated,1,1
+femoral neck fracture,11,20
+femur fracture,46,67
+fibrin d dimer increased,7,7
+fibromyalgia,4,12
+fibrosis,9,9
+fibula fracture,3,4
+fine motor skill dysfunction,4,7
+finger deformity,1,2
+fingerprint loss,4,6
+fistula,4,6
+flank pain,10,12
+flatulence,74,142
+fluid imbalance,4,7
+fluid intake reduced,9,10
+fluid overload,5,8
+fluid retention,66,96
+flushing,19,34
+foaming at mouth,2,2
+foetor hepaticus,1,2
+follicular lymphoma,1,1
+folliculitis,4,4
+food allergy,5,5
+food aversion,11,22
+food craving,4,5
+food interaction,1,1
+food intolerance,15,34
+food poisoning,9,17
+food refusal,2,7
+foot deformity,2,2
+foot fracture,8,20
+forearm fracture,1,2
+foreign body,1,2
+foreign body in throat,5,5
+formication,1,2
+fracture,34,53
+fracture displacement,1,2
+fracture pain,3,6
+fractured sacrum,6,9
+frequent bowel movements,14,23
+friedreich's ataxia,1,1
+frostbite,3,3
+frustration tolerance decreased,9,23
+full blood count abnormal,61,93
+full blood count decreased,140,204
+full blood count increased,1,1
+functional gastrointestinal disorder,6,6
+fungal foot infection,1,2
+fungal infection,12,14
+fungal oesophagitis,1,2
+fungal sepsis,1,1
+fungal skin infection,2,4
+fungating wound,1,1
+furuncle,6,8
+gait disturbance,295,471
+gait inability,60,103
+gallbladder disorder,10,20
+gallbladder empyema,1,1
+gallbladder enlargement,1,1
+gallbladder hypofunction,1,2
+gallbladder oedema,1,1
+gallbladder rupture,2,3
+gamma-glutamyltransferase,1,1
+gamma-glutamyltransferase abnormal,4,5
+gamma-glutamyltransferase decreased,1,1
+gamma-glutamyltransferase increased,96,204
+gangrene,4,6
+gastric cancer,1,2
+gastric disorder,34,51
+gastric fistula,1,1
+gastric haemorrhage,5,7
+gastric infection,4,9
+gastric neoplasm,2,2
+gastric perforation,2,2
+gastric ph decreased,1,1
+gastric polyps,3,3
+gastric ulcer,14,24
+gastritis,101,167
+gastritis erosive,4,6
+gastritis fungal,1,1
+gastritis haemorrhagic,1,1
+gastroenteritis,17,29
+gastroenteritis escherichia coli,2,3
+gastroenteritis viral,10,17
+gastrointestinal bacterial infection,1,1
+gastrointestinal carcinoma,3,3
+gastrointestinal disorder,76,122
+gastrointestinal haemorrhage,18,23
+gastrointestinal infection,21,40
+gastrointestinal inflammation,6,14
+gastrointestinal injury,1,3
+gastrointestinal motility disorder,4,4
+gastrointestinal neoplasm,1,1
+gastrointestinal pain,14,29
+gastrointestinal sounds abnormal,7,11
+gastrointestinal stoma complication,2,3
+gastrointestinal stromal tumour,1,1
+gastrointestinal toxicity,7,9
+gastrointestinal ulcer,2,3
+gastrointestinal ulcer haemorrhage,1,1
+gastrointestinal wall thickening,1,1
+gastrooesophageal reflux disease,86,159
+gene mutation,14,16
+gene mutation identification test positive,2,2
+general physical condition abnormal,18,29
+general physical condition decreased,3,4
+general physical health deterioration,396,698
+generalised erythema,1,2
+generalised oedema,11,13
+generalised tonic-clonic seizure,1,1
+genital blister,1,1
+genital contusion,1,1
+genital erythema,1,2
+genital herpes,1,3
+genital injury,1,1
+genital lesion,1,2
+genital pain,1,1
+giant cell arteritis,1,1
+gilbert's syndrome,1,1
+gingival bleeding,21,34
+gingival blister,2,6
+gingival discolouration,1,1
+gingival disorder,9,22
+gingival erythema,4,18
+gingival pain,15,29
+gingival recession,1,1
+gingival swelling,2,4
+gingival ulceration,1,1
+gingivitis,7,10
+glare,1,1
+glaucoma,17,37
+gliosis,1,2
+globulin abnormal,1,2
+globulins decreased,3,4
+globulins increased,2,2
+glomerular filtration rate,2,3
+glomerular filtration rate abnormal,9,14
+glomerular filtration rate decreased,60,109
+glossitis,10,15
+glossodynia,19,33
+glucose tolerance impaired,3,6
+glucose urine present,2,2
+glutamate dehydrogenase increased,1,1
+glycosylated haemoglobin abnormal,1,1
+glycosylated haemoglobin increased,9,14
+goitre,5,6
+gout,7,13
+granulocyte count decreased,4,5
+granulocytes abnormal,1,1
+granulocytopenia,12,17
+granulocytosis,2,5
+gravitational oedema,1,1
+grip strength decreased,2,2
+groin abscess,1,1
+groin pain,17,26
+growth failure,1,1
+h1n1 influenza,1,1
+haemangioma,2,2
+haemangioma of bone,1,2
+haemangioma of liver,3,4
+haemangioma rupture,2,2
+haematemesis,21,33
+haematochezia,32,65
+haematocrit,1,1
+haematocrit abnormal,6,10
+haematocrit decreased,79,156
+haematocrit increased,2,9
+haematological infection,3,4
+haematological malignancy,1,1
+haematology test abnormal,1,3
+haematoma,24,59
+haematoma infection,1,4
+haematotoxicity,44,48
+haematuria,5,9
+haemobilia,1,2
+haemochromatosis,1,1
+haemodynamic instability,1,1
+haemoglobin abnormal,24,43
+haemoglobin decreased,365,642
+haemoglobin distribution width increased,5,13
+haemoglobin increased,11,15
+haemoglobin urine present,2,5
+haemoglobinaemia,1,2
+haemolysis,2,2
+haemolytic anaemia,4,4
+haemolytic uraemic syndrome,2,3
+haemophagocytic lymphohistiocytosis,1,1
+haemophilia,1,1
+haemoptysis,21,42
+haemorrhage,78,132
+haemorrhage intracranial,5,9
+haemorrhage subcutaneous,1,1
+haemorrhage urinary tract,2,2
+haemorrhagic cyst,1,1
+haemorrhagic diathesis,1,1
+haemorrhagic disorder,1,1
+haemorrhagic erosive gastritis,1,2
+haemorrhagic transformation stroke,1,1
+haemorrhoidal haemorrhage,6,12
+haemorrhoids,30,69
+haemothorax,4,5
+hair colour changes,5,9
+hair disorder,10,14
+hair growth abnormal,16,22
+hair growth rate abnormal,1,3
+hair injury,1,3
+hair texture abnormal,20,29
+hairy cell leukaemia,1,1
+hallucination,22,31
+"hallucination, visual",2,4
+hand deformity,1,1
+hand fracture,1,1
+hand-eye coordination impaired,1,1
+head banging,1,1
+head discomfort,37,60
+head injury,22,24
+headache,621,1005
+hearing disability,1,1
+heart alternation,1,2
+heart rate abnormal,12,18
+heart rate decreased,18,22
+heart rate increased,75,99
+heart rate irregular,23,30
+heart sounds abnormal,3,8
+heart valve incompetence,1,2
+heat exhaustion,1,1
+heat illness,1,2
+heat stroke,1,1
+heavy menstrual bleeding,1,1
+helicobacter gastritis,1,1
+helicobacter infection,8,17
+helminthic infection,1,2
+helplessness,1,1
+hemianopia homonymous,1,2
+hemiparesis,6,8
+hemiplegia,9,9
+heparin-induced thrombocytopenia,1,2
+hepatic adenoma,1,1
+hepatic calcification,1,1
+hepatic cancer,20,25
+hepatic cancer metastatic,3,5
+hepatic cirrhosis,27,37
+hepatic cyst,10,23
+hepatic cytolysis,31,33
+hepatic echinococciasis,1,1
+hepatic encephalopathy,5,7
+hepatic enzyme abnormal,29,38
+hepatic enzyme decreased,3,3
+hepatic enzyme increased,259,318
+hepatic failure,77,103
+hepatic fibrosis,3,5
+hepatic function abnormal,48,61
+hepatic hypertrophy,1,1
+hepatic infection,10,12
+hepatic lesion,62,79
+hepatic mass,34,41
+hepatic necrosis,5,7
+hepatic neoplasm,30,41
+hepatic pain,28,41
+hepatic steatosis,29,65
+hepatic vascular thrombosis,1,2
+hepatitis,71,91
+hepatitis a,2,2
+hepatitis acute,16,17
+hepatitis b,3,3
+hepatitis b core antibody positive,1,1
+hepatitis b reactivation,3,4
+hepatitis c,1,2
+hepatitis cholestatic,1,1
+hepatitis e,7,12
+hepatitis fulminant,3,3
+hepatitis toxic,9,14
+hepatobiliary disease,11,19
+hepatocellular injury,9,9
+hepatomegaly,36,58
+hepatorenal failure,2,2
+hepatorenal syndrome,1,1
+hepatotoxicity,122,139
+her2 negative breast cancer,3,3
+her2 positive breast cancer,1,1
+hernia,11,19
+hernia pain,2,2
+herpes oesophagitis,1,3
+herpes ophthalmic,2,7
+herpes pharyngitis,1,3
+herpes simplex,1,6
+herpes virus infection,19,46
+herpes zoster,46,68
+herpes zoster oticus,2,6
+hiatus hernia,9,23
+hiccups,8,21
+hidradenitis,1,2
+high density lipoprotein abnormal,4,17
+high density lipoprotein decreased,5,7
+high density lipoprotein increased,2,3
+hilar lymphadenopathy,2,2
+hip deformity,1,1
+hip fracture,37,58
+histamine intolerance,2,2
+histamine level increased,2,2
+hiv infection,1,1
+hordeolum,1,2
+hormone level abnormal,18,25
+hormone receptor positive breast cancer,6,6
+hormone receptor positive her2 negative breast cancer,38,41
+horner's syndrome,1,2
+hospice care,8,8
+hospitalisation,20,20
+hot flush,190,260
+human epidermal growth factor receptor negative,1,1
+human epididymis protein 4 increased,1,1
+humerus fracture,3,10
+humoral immune defect,2,4
+hunger,16,32
+hydrocephalus,2,3
+hydronephrosis,19,31
+hydrothorax,9,10
+hyperacusis,1,1
+hyperaemia,5,5
+hyperaesthesia,5,5
+hyperaesthesia teeth,3,6
+hyperaldosteronism,1,1
+hyperbilirubinaemia,19,24
+hypercalcaemia,20,38
+hypercalcaemia of malignancy,1,1
+hypercapnia,1,1
+hyperchlorhydria,7,15
+hypercholesterolaemia,1,1
+hypercoagulation,1,1
+hypercreatininaemia,3,3
+hypergastrinaemia,1,1
+hyperglycaemia,48,74
+hyperhidrosis,82,130
+hyperkalaemia,30,45
+hyperkeratosis,4,12
+hyperlactacidaemia,1,1
+hypermetabolism,8,12
+hyperphagia,1,1
+hyperphosphataemia,1,1
+hyperpyrexia,2,5
+hypersensitivity,275,431
+hypersomnia,30,38
+hypertension,208,376
+hypertensive crisis,23,62
+hypertensive heart disease,2,4
+hyperthermia,2,2
+hyperthyroidism,18,33
+hypertonia,1,1
+hypertransaminasaemia,26,29
+hypertrichosis,3,5
+hypertriglyceridaemia,3,5
+hypertrophy of tongue papillae,1,2
+hyperuricaemia,1,1
+hyperventilation,1,1
+hypervigilance,1,2
+hypervolaemia,2,2
+hypoacusis,45,68
+hypoaesthesia,128,209
+hypoaesthesia eye,1,3
+hypoaesthesia oral,15,16
+hypoaesthesia teeth,1,4
+hypoalbuminaemia,17,32
+hypobarism,1,2
+hypocalcaemia,45,88
+hypochromasia,2,5
+hypogeusia,2,2
+hypoglycaemia,25,46
+hypokalaemia,40,68
+hypokinesia,33,46
+hypomagnesaemia,8,12
+hypomenorrhoea,1,1
+hyponatraemia,45,88
+hypoparathyroidism,1,1
+hypophagia,24,34
+hypophosphataemia,10,20
+hypopnoea,2,2
+hypoproteinaemia,1,1
+hyposmia,3,3
+hypotension,112,176
+hypothermia,2,4
+hypothyroidism,24,40
+hypotonia,2,6
+hypoventilation,2,3
+hypovitaminosis,2,6
+hypovolaemia,1,6
+hypoxia,21,37
+hysterectomy,1,1
+ichthyosis,1,1
+idiopathic interstitial pneumonia,1,1
+idiopathic pulmonary fibrosis,1,1
+ileal stenosis,1,1
+ileus,12,17
+ileus paralytic,2,3
+iliac artery disease,2,3
+iliac artery occlusion,1,2
+ilium fracture,1,1
+ill-defined disorder,101,154
+illness,325,499
+immobile,1,2
+immobilisation syndrome,1,1
+immune system disorder,32,56
+immune thrombocytopenia,3,3
+immune thrombocytopenic purpura,1,1
+immune-mediated hepatitis,2,3
+immune-mediated neuropathy,1,2
+immunodeficiency,131,199
+immunology test abnormal,1,1
+immunosuppression,18,28
+impaired gastric emptying,5,6
+impaired healing,26,65
+impaired work ability,1,1
+impatience,1,2
+implant site extravasation,1,1
+implant site pain,1,2
+inability to afford medication,2,2
+inappropriate antidiuretic hormone secretion,1,3
+inappropriate schedule of drug administration,15,15
+inappropriate schedule of product administration,354,541
+inappropriate schedule of product discontinuation,1,2
+incisional hernia,2,2
+incoherent,5,8
+incontinence,8,19
+incorrect dosage administered,7,10
+incorrect dose administered,106,172
+incorrect drug administration duration,1,1
+incorrect product administration duration,7,9
+incorrect product dosage form administered,2,2
+incorrect product formulation administered,2,5
+incorrect route of product administration,9,14
+increased appetite,18,28
+increased bronchial secretion,2,3
+increased need for sleep,1,2
+increased tendency to bruise,3,3
+increased upper airway secretion,1,1
+indifference,1,4
+infarction,13,21
+infected dermal cyst,2,3
+infected naevus,1,1
+infected seroma,1,1
+infected varicose vein,1,1
+infection,138,193
+infection parasitic,5,6
+infectious pleural effusion,4,9
+infective exacerbation of chronic obstructive airways disease,1,1
+infective glossitis,1,6
+inferior vena caval occlusion,1,3
+inflammation,122,184
+inflammation of wound,2,8
+inflammatory bowel disease,2,2
+inflammatory carcinoma of breast stage iii,1,1
+inflammatory carcinoma of the breast,2,2
+inflammatory marker increased,5,7
+inflammatory marker test,1,1
+influenza,204,384
+influenza like illness,31,51
+infusion site extravasation,1,1
+ingrowing nail,2,3
+inguinal hernia,1,6
+inguinal mass,1,1
+initial insomnia,2,7
+injection site bruising,1,2
+injection site cyst,1,1
+injection site discolouration,3,7
+injection site discomfort,1,3
+injection site haemorrhage,1,3
+injection site infection,1,1
+injection site inflammation,1,1
+injection site mass,5,17
+injection site pain,22,43
+injection site pruritus,1,2
+injection site pustule,1,1
+injection site rash,1,1
+injection site reaction,3,3
+injury,33,42
+injury associated with device,1,1
+inner ear disorder,1,1
+inner ear inflammation,1,1
+insomnia,280,467
+insulin resistant diabetes,1,1
+insurance issue,1,1
+intellectual disability,1,1
+intensive care,1,1
+intentional dose omission,8,9
+intentional overdose,2,2
+intentional product misuse,3,3
+intentional product use issue,8,14
+intentional self-injury,1,1
+intentional underdose,2,2
+intercostal neuralgia,1,2
+intermediate density lipoprotein increased,1,1
+intermenstrual bleeding,3,4
+intermittent claudication,1,3
+internal haemorrhage,2,3
+international normalised ratio abnormal,7,21
+international normalised ratio decreased,1,4
+international normalised ratio increased,5,8
+interstitial lung disease,50,63
+intervertebral disc compression,3,6
+intervertebral disc degeneration,1,1
+intervertebral disc disorder,6,9
+intervertebral disc displacement,1,2
+intervertebral disc protrusion,14,24
+intervertebral disc space narrowing,1,1
+intestinal dilatation,1,2
+intestinal haemorrhage,2,3
+intestinal infarction,1,1
+intestinal ischaemia,3,7
+intestinal metastasis,6,6
+intestinal obstruction,23,35
+intestinal perforation,4,6
+intestinal polyp,1,1
+intra-abdominal fluid collection,11,11
+intra-abdominal haemorrhage,1,1
+intracardiac thrombus,2,2
+intracranial aneurysm,1,1
+intracranial mass,7,11
+intracranial pressure increased,2,3
+intracranial tumour haemorrhage,1,2
+intraductal papillary mucinous neoplasm,1,1
+intraductal proliferative breast lesion,3,7
+intraocular pressure test abnormal,1,1
+intrusive thoughts,1,3
+invasive breast carcinoma,7,7
+invasive ductal breast carcinoma,12,12
+invasive lobular breast carcinoma,6,6
+investigation abnormal,10,18
+iodine allergy,2,3
+iron deficiency,7,11
+irregular breathing,1,1
+irritability,38,59
+irritable bowel syndrome,3,3
+ischaemia,7,11
+ischaemic cardiomyopathy,1,3
+ischaemic stroke,11,17
+itching scar,1,2
+jaundice,73,91
+jaundice cholestatic,1,1
+jaw disorder,6,11
+jaw fracture,1,1
+joint dislocation,8,9
+joint injury,17,28
+joint instability,1,1
+joint lock,1,5
+joint neoplasm,1,1
+joint noise,1,1
+joint range of motion decreased,3,6
+joint stiffness,17,22
+joint swelling,57,87
+keratitis,8,25
+ketoacidosis,1,1
+kidney enlargement,1,1
+kidney infection,19,28
+klebsiella infection,2,4
+klebsiella test positive,1,1
+kniest dysplasia,2,4
+kyphosis,1,1
+labelled drug-food interaction issue,3,6
+labelled drug-food interaction medication error,1,2
+laboratory test abnormal,77,108
+labyrinthitis,5,10
+lacrimal gland enlargement,1,1
+lacrimation increased,69,112
+lactic acidosis,7,7
+lactose intolerance,2,3
+lacunar infarction,1,1
+language disorder,1,1
+large intestinal obstruction,1,1
+large intestinal stenosis,1,1
+large intestinal ulcer,4,4
+large intestine infection,1,1
+large intestine perforation,2,2
+large intestine polyp,1,2
+laryngeal oedema,3,3
+laryngitis,15,35
+laryngopharyngitis,1,1
+laziness,12,24
+left atrial enlargement,12,21
+left ventricular dysfunction,5,10
+left ventricular hypertrophy,15,29
+legionella infection,1,2
+leiomyoma,3,3
+lentigo,1,1
+leprosy,2,2
+lethargy,50,68
+leukaemia,6,14
+leukaemia recurrent,2,3
+leukocytosis,9,15
+leukocyturia,2,2
+leukonychia,1,3
+leukopenia,311,610
+leukoplakia oral,1,1
+libido decreased,5,7
+libido disorder,1,1
+lichen planus,2,2
+lichenoid keratosis,1,1
+ligament disorder,1,2
+ligament injury,1,1
+ligament sprain,21,41
+limb deformity,8,20
+limb discomfort,75,126
+limb injury,41,69
+limb mass,4,7
+lip and/or oral cavity cancer,2,8
+lip blister,6,7
+lip disorder,2,3
+lip dry,18,26
+lip exfoliation,1,1
+lip haemorrhage,1,1
+lip injury,5,7
+lip pain,3,4
+lip swelling,15,26
+lip ulceration,1,1
+lipase increased,5,8
+lipids abnormal,2,4
+lipids increased,2,3
+lipoedema,2,2
+lipoma,5,9
+listless,3,4
+lithiasis,1,1
+liver abscess,1,2
+liver disorder,158,211
+liver function test,1,1
+liver function test abnormal,70,87
+liver function test decreased,3,6
+liver function test increased,169,212
+liver function test normal,1,1
+liver injury,60,86
+liver scan abnormal,1,2
+liver tenderness,1,1
+localised infection,12,15
+localised oedema,3,3
+long qt syndrome,3,4
+loss of consciousness,68,97
+loss of libido,6,15
+loss of personal independence in daily activities,1,3
+loss of visual contrast sensitivity,4,11
+low density lipoprotein increased,2,3
+low turnover osteopathy,1,1
+lower gastrointestinal haemorrhage,2,4
+lower limb fracture,20,27
+lower respiratory tract congestion,2,2
+lower respiratory tract infection,35,65
+lower respiratory tract infection bacterial,1,2
+lumbar spinal stenosis,4,7
+lumbar vertebral fracture,3,3
+lung abscess,1,1
+lung adenocarcinoma,2,4
+lung cancer metastatic,8,8
+lung carcinoma cell type unspecified recurrent,2,2
+lung carcinoma cell type unspecified stage ii,1,1
+lung consolidation,4,7
+lung cyst,5,9
+lung disorder,108,167
+lung hernia,1,1
+lung hypoinflation,1,1
+lung infection,15,21
+lung infiltration,13,16
+lung neoplasm,11,12
+lung neoplasm malignant,34,52
+lung opacity,4,4
+lung perforation,1,3
+lupus-like syndrome,1,1
+lyme disease,2,7
+lymph gland infection,3,3
+lymph node calcification,3,3
+lymph node pain,1,2
+lymph node palpable,1,3
+lymph nodes scan abnormal,1,1
+lymphadenitis,5,5
+lymphadenopathy,91,125
+lymphadenopathy mediastinal,7,7
+lymphangioma,1,1
+lymphangiosis carcinomatosa,11,22
+lymphangitis,3,3
+lymphatic disorder,3,5
+lymphoblast count increased,1,1
+lymphocele,1,1
+lymphocyte count,1,1
+lymphocyte count abnormal,10,17
+lymphocyte count decreased,91,205
+lymphocyte count increased,18,25
+lymphocyte morphology abnormal,2,2
+lymphocyte percentage abnormal,3,4
+lymphocyte percentage increased,2,2
+lymphocytosis,6,9
+lymphoedema,56,94
+lymphoma,6,7
+lymphopenia,24,44
+macrocytosis,33,78
+macular degeneration,3,4
+macular oedema,1,1
+macule,4,7
+madarosis,31,56
+magnetic resonance imaging abnormal,1,1
+major depression,3,5
+malaise,851,1348
+malignant ascites,1,1
+malignant haemangiopericytoma,1,3
+malignant lymphoid neoplasm,1,1
+malignant mediastinal neoplasm,1,2
+malignant melanoma,3,3
+malignant neoplasm of pleura,1,1
+malignant neoplasm of renal pelvis,2,4
+malignant neoplasm of spinal cord,6,7
+malignant neoplasm of thorax,1,2
+malignant neoplasm oligoprogression,1,1
+malignant neoplasm progression,1024,1214
+malignant peritoneal neoplasm,2,2
+malignant pleural effusion,12,19
+mallory-weiss syndrome,1,1
+malnutrition,15,16
+mammogram abnormal,1,1
+mania,3,5
+manufacturing product shipping issue,5,6
+mass,43,67
+mastectomy,3,3
+mastication disorder,3,3
+mastitis,14,18
+maternal exposure timing unspecified,1,2
+mean cell haemoglobin,7,20
+mean cell haemoglobin concentration decreased,6,8
+mean cell haemoglobin concentration increased,4,13
+mean cell haemoglobin decreased,3,6
+mean cell haemoglobin increased,28,42
+mean cell volume,3,4
+mean cell volume abnormal,4,7
+mean cell volume decreased,3,3
+mean cell volume increased,44,90
+mean platelet volume decreased,4,5
+mean platelet volume increased,1,1
+mediastinal disorder,3,4
+mediastinal mass,1,2
+mediastinum neoplasm,1,1
+medication error,15,18
+medulloblastoma,2,2
+medulloblastoma recurrent,1,1
+melaena,5,15
+melanocytic naevus,4,7
+melorheostosis,1,1
+memory impairment,187,309
+meningioma,6,12
+meningitis,3,8
+meningococcal sepsis,1,1
+meningoencephalitis herpetic,1,2
+meniscus injury,2,5
+menopausal disorder,3,7
+menopausal symptoms,4,6
+menopause,4,6
+menstrual disorder,5,8
+menstruation irregular,3,8
+mental disorder,23,49
+mental fatigue,6,11
+mental impairment,4,6
+mental status changes,6,7
+mesenteric artery thrombosis,1,1
+metabolic acidosis,4,5
+metabolic alkalosis,2,5
+metabolic disorder,17,25
+metastases to abdominal cavity,2,3
+metastases to adrenals,4,4
+metastases to biliary tract,2,2
+metastases to bladder,3,3
+metastases to bone,557,797
+metastases to bone marrow,13,18
+metastases to breast,21,27
+metastases to central nervous system,124,154
+metastases to chest wall,7,7
+metastases to eye,4,6
+metastases to fallopian tube,1,2
+metastases to gastrointestinal tract,3,3
+metastases to heart,3,4
+metastases to kidney,10,11
+metastases to liver,371,478
+metastases to lung,258,342
+metastases to lymph nodes,79,96
+metastases to meninges,15,17
+metastases to muscle,1,1
+metastases to nasal sinuses,1,1
+metastases to neck,20,23
+metastases to nervous system,1,1
+metastases to ovary,11,17
+metastases to pancreas,1,1
+metastases to pelvis,27,41
+metastases to peripheral nervous system,1,3
+metastases to peritoneum,15,18
+metastases to pharynx,2,2
+metastases to pleura,35,50
+metastases to retroperitoneum,1,1
+metastases to skin,24,31
+metastases to soft tissue,1,1
+metastases to spinal cord,5,12
+metastases to spine,143,220
+metastases to spleen,1,1
+metastases to stomach,11,12
+metastases to the mediastinum,2,3
+metastases to thorax,15,22
+metastases to thyroid,1,1
+metastases to trachea,2,2
+metastases to urinary tract,1,1
+metastases to uterus,3,4
+metastasis,229,335
+metastatic gastric cancer,1,1
+metastatic lymphoma,1,1
+metastatic neoplasm,19,20
+microangiopathic haemolytic anaemia,3,8
+microangiopathy,4,8
+micturition disorder,4,11
+micturition frequency decreased,1,3
+micturition urgency,7,14
+middle insomnia,4,12
+migraine,41,82
+migraine with aura,1,1
+miliaria,3,5
+mineral deficiency,2,4
+minimal residual disease,1,1
+mite allergy,1,1
+mitral valve disease,1,3
+mitral valve incompetence,22,47
+mitral valve prolapse,3,3
+mitral valve sclerosis,1,6
+mitral valve stenosis,2,4
+moaning,2,2
+mobility decreased,70,121
+monocyte count abnormal,2,2
+monocyte count decreased,19,35
+monocyte count increased,21,40
+monocyte percentage increased,1,1
+monocytopenia,1,1
+monocytosis,3,3
+monoparesis,2,3
+monoplegia,9,13
+mood altered,19,33
+mood swings,19,39
+morbid thoughts,1,1
+morning sickness,1,1
+morton's neuralgia,4,17
+motion sickness,6,16
+motor dysfunction,6,8
+mouth haemorrhage,6,9
+mouth injury,13,19
+mouth swelling,9,11
+mouth ulceration,26,37
+movement disorder,125,194
+mucosal disorder,3,6
+mucosal dryness,5,9
+mucosal haemorrhage,1,5
+mucosal hypertrophy,1,1
+mucosal infection,1,2
+mucosal inflammation,45,85
+mucosal pain,1,4
+mucous stools,1,1
+multi-organ disorder,1,5
+multiple fractures,1,2
+multiple injuries,2,5
+multiple organ dysfunction syndrome,42,57
+multiple sclerosis,9,11
+multiple sclerosis relapse,1,1
+multiple system atrophy,1,1
+muscle abscess,1,1
+muscle atrophy,23,43
+muscle contractions involuntary,1,1
+muscle contracture,6,13
+muscle discomfort,3,6
+muscle disorder,4,6
+muscle fatigue,3,5
+muscle injury,6,8
+muscle mass,4,5
+muscle neoplasm,1,1
+muscle rigidity,3,4
+muscle rupture,2,2
+muscle spasms,108,178
+muscle strain,7,15
+muscle strength abnormal,1,1
+muscle swelling,1,1
+muscle tightness,4,11
+muscle twitching,4,7
+muscular weakness,73,112
+musculoskeletal chest pain,91,163
+musculoskeletal discomfort,34,75
+musculoskeletal disorder,3,3
+musculoskeletal pain,41,69
+musculoskeletal stiffness,46,67
+mutism,3,10
+myalgia,103,147
+myasthenia gravis,4,8
+mydriasis,2,3
+myelitis,2,2
+myelodysplastic syndrome,4,7
+myelofibrosis,1,1
+myelopathy,1,1
+myelosuppression,29,35
+myiasis,1,1
+myocardial fibrosis,1,1
+myocardial infarction,88,120
+myocardial injury,1,1
+myocardial ischaemia,9,9
+myocardial necrosis,1,3
+myocardial necrosis marker increased,1,1
+myocarditis,5,5
+myofascitis,1,2
+myopathy,1,3
+myopericarditis,1,1
+myopia,13,38
+myosclerosis,2,4
+myositis,2,3
+nail avulsion,1,1
+nail bed disorder,1,2
+nail bed tenderness,1,1
+nail cuticle fissure,4,4
+nail discolouration,4,8
+nail discomfort,6,11
+nail disorder,50,84
+nail dystrophy,2,10
+nail growth abnormal,1,1
+nail injury,1,1
+nail ridging,3,5
+nasal congestion,40,69
+nasal discomfort,9,12
+nasal disorder,5,6
+nasal dryness,19,26
+nasal injury,6,20
+nasal mucosal disorder,3,3
+nasal polyps,1,1
+nasal pruritus,3,5
+nasal ulcer,5,19
+nasopharyngitis,228,412
+nausea,1814,2733
+near death experience,13,24
+neck injury,5,5
+neck mass,12,17
+neck pain,57,94
+necrosis,10,12
+necrotising fasciitis,1,1
+necrotising myositis,1,1
+negative thoughts,3,4
+neoplasm,110,165
+neoplasm malignant,218,284
+neoplasm progression,63,72
+neoplasm recurrence,5,6
+neoplasm skin,1,1
+nephritis,2,5
+nephroblastoma,1,1
+nephrocalcinosis,1,1
+nephrolithiasis,26,41
+nephropathy,6,13
+nephropathy toxic,9,9
+nerve compression,3,7
+nerve injury,10,14
+nervous system disorder,12,23
+nervousness,76,153
+neuralgia,18,30
+neuritis,3,4
+neurodermatitis,2,3
+neurological decompensation,1,1
+neurological examination abnormal,1,1
+neurological symptom,2,2
+neuromyopathy,2,3
+neuropathy peripheral,66,83
+neuropsychiatric syndrome,1,1
+neutropenia,1138,1645
+neutropenic infection,2,2
+neutropenic sepsis,16,21
+neutrophil count,1,2
+neutrophil count abnormal,35,45
+neutrophil count decreased,329,560
+neutrophil count increased,20,24
+neutrophil percentage decreased,2,2
+neutrophil percentage increased,1,1
+neutrophil toxic granulation present,3,4
+neutrophilia,5,9
+nicotine dependence,1,1
+night sweats,17,21
+nightmare,5,10
+nikolsky's sign,1,2
+nipple disorder,7,16
+nipple inflammation,1,1
+nitrite urine present,2,5
+nitrituria,1,3
+no adverse event,6,8
+nocturia,5,7
+nocturnal dyspnoea,3,4
+nodule,67,94
+non-cardiac chest pain,5,5
+non-compaction cardiomyopathy,1,1
+non-high-density lipoprotein cholesterol decreased,4,6
+non-high-density lipoprotein cholesterol increased,1,1
+noninfective encephalitis,3,3
+noninfective gingivitis,10,24
+nonspecific reaction,4,4
+normochromic normocytic anaemia,2,3
+normocytic anaemia,4,7
+nosocomial infection,5,10
+nutritional condition abnormal,3,9
+nystagmus,1,1
+obesity,9,11
+obstruction,3,4
+obstruction gastric,2,2
+obstructive airways disorder,3,3
+obstructive defaecation,1,1
+occipital lobe stroke,1,1
+occult blood positive,1,1
+ocular discomfort,6,9
+ocular hyperaemia,18,29
+ocular hypertension,1,1
+ocular icterus,6,7
+ocular neoplasm,3,4
+ocular vascular disorder,1,2
+odynophagia,13,23
+oedema,60,89
+oedema mucosal,1,1
+oedema peripheral,148,230
+oesophageal candidiasis,6,10
+oesophageal compression,1,1
+oesophageal discomfort,1,1
+oesophageal disorder,6,12
+oesophageal haemorrhage,1,1
+oesophageal infection,1,1
+oesophageal motility disorder,1,1
+oesophageal mucosal blister,1,1
+oesophageal obstruction,3,3
+oesophageal oedema,1,2
+oesophageal pain,5,9
+oesophageal polyp,1,4
+oesophageal stenosis,3,3
+oesophageal ulcer,2,2
+oesophageal varices haemorrhage,1,1
+oesophagitis,17,43
+oestradiol abnormal,2,2
+oestradiol decreased,2,2
+oestradiol increased,4,4
+oestrogen deficiency,2,2
+oestrogen receptor assay positive,2,2
+off label use,129,181
+oligodipsia,2,2
+oliguria,7,8
+oncologic complication,11,12
+onychalgia,1,2
+onychoclasis,37,68
+onycholysis,2,3
+onychomadesis,7,11
+onychomycosis,4,12
+oophorectomy,1,1
+opportunistic infection,1,1
+optic nerve disorder,3,3
+optic nerve injury,1,1
+optic neuritis,2,5
+oral administration complication,1,2
+oral candidiasis,13,25
+oral contusion,2,6
+oral discharge,1,1
+oral discomfort,11,15
+oral disorder,11,12
+oral fungal infection,1,3
+oral herpes,24,43
+oral infection,2,2
+oral lichen planus,1,1
+oral mucosa haematoma,1,1
+oral mucosal blistering,18,21
+oral mucosal eruption,3,4
+oral mucosal erythema,1,2
+oral mucosal exfoliation,6,12
+oral neoplasm,1,1
+oral pain,49,67
+oral pruritus,1,2
+orbital swelling,1,1
+organ failure,13,18
+organising pneumonia,5,6
+orgasmic sensation decreased,2,2
+oropharyngeal blistering,1,1
+oropharyngeal cancer,1,1
+oropharyngeal discomfort,42,74
+oropharyngeal pain,117,204
+oropharyngeal plaque,3,3
+orthopnoea,3,8
+orthostatic hypotension,1,1
+osteitis,8,19
+osteoarthritis,32,59
+osteogenesis imperfecta,1,1
+osteolysis,13,18
+osteomyelitis,9,14
+osteomyelitis chronic,1,1
+osteonecrosis,11,12
+osteonecrosis of jaw,40,48
+osteopenia,13,23
+osteopetrosis,1,1
+osteoporosis,43,83
+osteosarcoma,2,2
+osteosarcoma metastatic,1,1
+osteosclerosis,10,13
+otorrhoea,1,2
+ototoxicity,1,1
+ovarian cancer,8,17
+ovarian cancer metastatic,2,2
+ovarian cancer stage iv,2,3
+ovarian cyst,3,11
+ovarian enlargement,1,1
+ovarian mass,2,3
+ovarian neoplasm,1,1
+ovarian rupture,1,1
+overdose,22,38
+overflow diarrhoea,1,1
+overweight,15,24
+oxygen consumption,3,3
+oxygen consumption decreased,1,1
+oxygen consumption increased,1,1
+oxygen saturation,2,2
+oxygen saturation abnormal,4,4
+oxygen saturation decreased,46,60
+paget's disease of nipple,1,1
+pain,877,1361
+pain assessment,1,1
+pain in extremity,500,832
+pain in jaw,15,27
+pain of skin,30,43
+painful respiration,4,6
+palatal disorder,1,1
+palatal ulcer,1,1
+palate injury,1,2
+palliative care,1,1
+pallor,33,51
+palmar erythema,1,1
+palmar-plantar erythrodysaesthesia syndrome,24,43
+palpitations,94,139
+pancreatic carcinoma,3,3
+pancreatic cyst,1,2
+pancreatic disorder,5,6
+pancreatic enzymes increased,1,1
+pancreatic fibrosis,1,1
+pancreatic injury,1,2
+pancreatic mass,2,3
+pancreatic steatosis,1,1
+pancreatitis,21,35
+pancreatitis acute,10,11
+pancreatitis chronic,1,3
+pancytopenia,112,190
+panic attack,14,30
+panic disorder,3,6
+panic reaction,2,6
+papillary thyroid cancer,1,3
+papilloedema,1,2
+papule,3,3
+paracentesis,2,2
+paradoxical drug reaction,1,1
+paraesthesia,103,170
+paraesthesia oral,5,7
+paralysis,17,27
+paranasal sinus discomfort,1,5
+paraneoplastic dermatomyositis,2,6
+paraneoplastic pleural effusion,1,1
+paraneoplastic syndrome,3,3
+paranoia,3,7
+paraparesis,5,6
+paraplegia,6,9
+parasitic gastroenteritis,1,1
+parathyroid tumour benign,1,1
+paratracheal lymphadenopathy,3,4
+paresis,1,2
+parkinson's disease,7,8
+parkinsonism,1,1
+paronychia,3,4
+parosmia,14,22
+partial seizures,1,1
+patellofemoral pain syndrome,1,1
+pathological fracture,18,30
+patient-device incompatibility,2,6
+pco2 abnormal,1,2
+peau d'orange,1,1
+pelvi-ureteric obstruction,1,1
+pelvic bone injury,5,5
+pelvic cyst,1,1
+pelvic discomfort,4,5
+pelvic fluid collection,2,4
+pelvic fracture,17,33
+pelvic mass,2,4
+pelvic neoplasm,2,2
+pelvic pain,36,61
+pelvic venous thrombosis,1,1
+pemphigoid,1,1
+pemphigus,1,1
+peptic ulcer,2,2
+percussion test abnormal,1,1
+perforated ulcer,1,2
+perforation,1,1
+performance status decreased,4,4
+periarthritis,2,6
+pericardial disease,1,1
+pericardial effusion,34,45
+pericardial effusion malignant,1,3
+pericarditis,3,3
+perineal rash,1,1
+periodontal disease,1,1
+periodontitis,2,6
+periorbital swelling,1,1
+peripheral arterial occlusive disease,2,4
+peripheral artery occlusion,1,2
+peripheral artery stenosis,1,2
+peripheral artery thrombosis,2,4
+peripheral coldness,12,25
+peripheral embolism,2,2
+peripheral ischaemia,2,2
+peripheral motor neuropathy,3,6
+peripheral nerve lesion,3,3
+peripheral sensory neuropathy,6,16
+peripheral swelling,339,512
+peripheral vascular disorder,1,3
+peripheral venous disease,2,4
+peritoneal disorder,2,2
+peritoneal lesion,1,1
+peritoneal neoplasm,1,3
+peritonitis,6,9
+peroneal nerve palsy,1,2
+personality change,1,2
+petechiae,6,7
+petit mal epilepsy,4,4
+ph body fluid increased,1,1
+pharyngeal disorder,1,1
+pharyngeal erythema,1,1
+pharyngeal haemorrhage,1,1
+pharyngeal hypoaesthesia,2,4
+pharyngeal inflammation,2,5
+pharyngeal mass,1,1
+pharyngeal oedema,3,3
+pharyngeal swelling,9,14
+pharyngeal ulceration,3,3
+pharyngitis,27,69
+pharyngitis bacterial,1,2
+pharyngitis streptococcal,3,3
+phlebitis,9,12
+phlebosclerosis,1,1
+phobia,4,4
+photophobia,7,9
+photopsia,8,15
+photosensitivity reaction,12,17
+physical examination abnormal,2,3
+physical product label issue,1,3
+pigmentation disorder,44,71
+pik3ca-activated mutation,18,19
+pituitary tumour benign,1,1
+pityriasis rosea,1,1
+plantar fasciitis,4,11
+plasma cell myeloma,2,2
+platelet count abnormal,21,36
+platelet count decreased,336,539
+platelet count increased,32,49
+platelet destruction increased,1,1
+platelet disorder,9,11
+platelet distribution width decreased,1,1
+platelet morphology abnormal,2,5
+pleural calcification,1,2
+pleural disorder,6,10
+pleural effusion,314,462
+pleural fibrosis,2,2
+pleural fluid analysis abnormal,2,3
+pleural infection,1,3
+pleural mass,2,3
+pleural neoplasm,3,3
+pleural thickening,14,14
+pleurisy,7,11
+pleuritic pain,5,11
+pleuroparenchymal fibroelastosis,1,1
+plicated tongue,2,6
+pneumatosis intestinalis,1,1
+pneumocystis jirovecii infection,1,1
+pneumocystis jirovecii pneumonia,4,4
+pneumonia,309,455
+pneumonia aspiration,4,7
+pneumonia bacterial,8,14
+pneumonia chlamydial,1,4
+pneumonia cytomegaloviral,1,2
+pneumonia fungal,1,1
+pneumonia influenzal,2,6
+pneumonia mycoplasmal,1,3
+pneumonia pseudomonal,1,1
+pneumonia staphylococcal,2,2
+pneumonia viral,2,2
+pneumonitis,129,179
+pneumonitis chemical,3,8
+pneumothorax,25,43
+po2 decreased,2,2
+poikilocytosis,29,67
+poisoning,27,44
+pollakiuria,25,42
+polyarthritis,3,5
+polychromasia,16,46
+polychromic red blood cells present,3,4
+polydipsia,1,1
+polymerase chain reaction positive,4,6
+polymyalgia rheumatica,2,2
+polymyositis,1,1
+polyneuropathy,42,109
+polyneuropathy in malignant disease,1,1
+polyp,4,6
+polyuria,2,2
+poor peripheral circulation,3,6
+poor quality product administered,1,1
+poor quality sleep,28,44
+poor venous access,2,2
+portal hypertension,1,4
+portal vein thrombosis,4,5
+positron emission tomogram abnormal,12,12
+post herpetic neuralgia,1,1
+post inflammatory pigmentation change,1,1
+post procedural complication,9,11
+post procedural erythema,1,1
+post procedural haemorrhage,2,2
+post procedural infection,3,6
+post procedural inflammation,2,6
+post procedural swelling,1,4
+post thrombotic syndrome,1,2
+posterior reversible encephalopathy syndrome,1,2
+postmenopausal haemorrhage,1,3
+postoperative adhesion,1,1
+postoperative wound infection,5,6
+postrenal failure,1,2
+posture abnormal,2,2
+potentiating drug interaction,2,2
+precancerous condition,2,2
+premature menopause,3,5
+prerenal failure,5,6
+prescribed overdose,2,3
+prescribed underdose,1,1
+presyncope,5,7
+primary biliary cholangitis,1,1
+primary hypothyroidism,1,2
+procalcitonin decreased,1,1
+procalcitonin increased,1,2
+procedural complication,3,8
+procedural pain,11,21
+procedural pneumothorax,1,3
+procollagen type i c-terminal propeptide increased,1,2
+proctalgia,7,10
+product administered to patient of inappropriate age,1,1
+product administration error,5,12
+product administration interrupted,4,5
+product after taste,1,3
+product availability issue,49,77
+product barcode issue,1,1
+product communication issue,1,3
+product container issue,1,2
+product dispensing error,11,15
+product dispensing issue,4,14
+product distribution issue,18,22
+product dose omission,13,13
+product dose omission in error,27,45
+product dose omission issue,263,379
+product label issue,3,6
+product label on wrong product,1,1
+product outer packaging issue,1,1
+product packaging difficult to open,3,3
+product packaging issue,5,6
+product packaging quantity issue,3,7
+product physical issue,3,3
+product prescribing error,17,27
+product prescribing issue,8,13
+product quality issue,2,3
+product residue present,2,2
+product size issue,1,1
+product solubility abnormal,1,1
+product storage error,31,34
+product substitution issue,1,3
+product supply issue,53,86
+product temperature excursion issue,4,4
+product use complaint,28,29
+product use in unapproved indication,129,165
+product use issue,99,146
+productive cough,75,123
+progesterone receptor assay negative,1,1
+prostatomegaly,1,1
+protein deficiency,1,1
+protein total abnormal,1,2
+protein total decreased,11,16
+protein total increased,2,2
+protein urine present,3,3
+proteinuria,3,10
+prothrombin level increased,2,8
+prothrombin time prolonged,4,4
+pruritus,620,975
+pruritus generalised,9,11
+pruritus genital,1,2
+pseudocirrhosis,6,9
+pseudomonas infection,1,1
+psoriasis,11,18
+psychiatric decompensation,2,5
+psychiatric symptom,6,8
+psychological factor affecting medical condition,1,1
+psychomotor disadaptation syndrome,1,2
+psychomotor hyperactivity,8,11
+psychotic disorder,5,7
+pterygium,1,1
+pubic pain,2,3
+pulmonary arterial hypertension,3,3
+pulmonary arterial pressure increased,1,1
+pulmonary artery thrombosis,3,3
+pulmonary calcification,1,1
+pulmonary congestion,15,25
+pulmonary embolism,125,182
+pulmonary fibrosis,29,46
+pulmonary fistula,1,1
+pulmonary function test decreased,2,2
+pulmonary haemorrhage,2,2
+pulmonary hilar enlargement,1,1
+pulmonary hypertension,5,8
+pulmonary infarction,1,1
+pulmonary mass,81,114
+pulmonary oedema,161,219
+pulmonary pain,34,74
+pulmonary sepsis,2,2
+pulmonary septal thickening,2,2
+pulmonary thrombosis,11,13
+pulmonary toxicity,2,2
+pulmonary tuberculosis,3,3
+pulmonary valve incompetence,1,9
+pulmonary valve stenosis,2,2
+pulpitis dental,5,7
+pulse abnormal,2,3
+punctate keratitis,2,2
+puncture site injury,1,1
+puncture site pain,1,1
+puncture site reaction,1,1
+pupils unequal,1,1
+purpura,4,4
+purulent discharge,4,6
+pustular psoriasis,1,1
+pustule,5,9
+pyelitis,2,2
+pyelonephritis,10,18
+pyloric stenosis,1,2
+pyoderma gangrenosum,1,2
+pyonephrosis,1,1
+pyrexia,505,849
+pyuria,1,1
+qrs axis abnormal,8,20
+quadriplegia,1,1
+quality of life decreased,9,12
+radiation injury,10,15
+radiation myelopathy,1,1
+radiation oesophagitis,3,5
+radiation pneumonitis,2,5
+radiation skin injury,7,16
+radicular pain,1,2
+radiculopathy,3,6
+radioisotope scan abnormal,1,2
+radius fracture,3,6
+rales,7,16
+rash,656,916
+rash erythematous,32,40
+rash generalised,15,17
+rash macular,54,83
+rash maculo-papular,20,23
+rash papular,12,16
+rash pruritic,90,112
+rash pustular,3,4
+rash vesicular,8,9
+raynaud's phenomenon,1,1
+reaction to excipient,3,8
+reactive gastropathy,1,2
+reading disorder,5,12
+rebound effect,4,9
+rectal cancer,6,8
+rectal fissure,1,2
+rectal haemorrhage,27,36
+rectal lesion,3,3
+rectal obstruction,1,1
+rectal prolapse,2,4
+rectal stenosis,2,9
+rectal tenesmus,2,3
+rectal ulcer,3,3
+rectocele,3,3
+recurrent cancer,21,23
+red blood cell abnormality,6,15
+red blood cell count abnormal,12,21
+red blood cell count decreased,188,311
+red blood cell count increased,9,14
+red blood cell elliptocytes present,2,3
+red blood cell macrocytes present,1,1
+red blood cell morphology abnormal,1,1
+red blood cell poikilocytes present,3,4
+red blood cell rouleaux formation present,1,3
+red blood cell sedimentation rate abnormal,1,2
+red blood cell sedimentation rate decreased,3,8
+red blood cell sedimentation rate increased,32,72
+red blood cell target cells present,1,1
+red blood cells urine positive,2,2
+red cell distribution width abnormal,4,7
+red cell distribution width decreased,3,6
+red cell distribution width increased,54,109
+reexpansion pulmonary oedema,1,2
+reflux gastritis,15,26
+refractory cancer,1,1
+refusal of treatment by patient,1,1
+regurgitation,2,6
+remission not achieved,1,1
+renal atrophy,2,2
+renal cancer,1,1
+renal cancer stage iv,1,1
+renal colic,1,1
+renal cyst,13,29
+renal disorder,71,107
+renal failure,154,228
+renal function test abnormal,20,32
+renal haematoma,2,2
+renal impairment,196,265
+renal injury,9,13
+renal mass,2,2
+renal neoplasm,3,4
+renal pain,19,34
+renal tubular acidosis,1,1
+renal tubular necrosis,2,3
+renal vascular thrombosis,1,1
+renal vein thrombosis,2,4
+resorption bone increased,4,6
+respiration abnormal,7,9
+respiratory acidosis,1,1
+respiratory arrest,8,9
+respiratory disorder,38,53
+respiratory distress,9,9
+respiratory failure,70,87
+respiratory rate decreased,1,1
+respiratory rate increased,9,10
+respiratory symptom,3,6
+respiratory syncytial virus infection,3,4
+respiratory tract congestion,4,8
+respiratory tract haemorrhage,1,2
+respiratory tract infection,14,21
+respiratory tract infection bacterial,2,4
+respiratory tract infection viral,1,3
+restless legs syndrome,5,10
+restlessness,27,49
+restrictive pulmonary disease,1,4
+retching,51,68
+reticulocyte count increased,4,7
+retinal artery occlusion,1,1
+retinal detachment,7,9
+retinal disorder,1,5
+retinal haemorrhage,2,2
+retinal infiltrates,1,1
+retinal injury,1,1
+retracted nipple,2,4
+retroperitoneal abscess,1,2
+retroperitoneal cancer,2,4
+retroperitoneal haematoma,1,1
+retroperitoneal haemorrhage,1,1
+rhabdomyolysis,8,10
+rheumatic disorder,8,22
+rheumatoid arthritis,4,8
+rhinalgia,2,3
+rhinitis,20,27
+rhinitis allergic,9,13
+rhinorrhoea,66,102
+rhinovirus infection,1,1
+rhonchi,1,2
+rib deformity,1,1
+rib fracture,20,53
+right atrial dilatation,4,7
+right atrial enlargement,2,3
+right ventricular hypertrophy,3,3
+road traffic accident,12,15
+rosacea,3,3
+rotator cuff syndrome,1,3
+rotavirus infection,2,8
+rouleaux formation,15,42
+rubber sensitivity,1,3
+sacral pain,2,2
+saliva altered,5,8
+salivary gland disorder,1,1
+salivary hypersecretion,16,31
+salmonella bacteraemia,1,1
+salmonellosis,1,1
+salpingo-oophoritis,1,1
+sarcoma,4,4
+sarcomatoid carcinoma,1,1
+sarcopenia,2,3
+sars-cov-2 antibody test positive,1,2
+sars-cov-2 test,1,1
+sars-cov-2 test positive,38,62
+scab,15,36
+scan abdomen abnormal,1,1
+scan abnormal,1,1
+scar,15,23
+scar pain,2,3
+sciatic nerve injury,2,2
+sciatic nerve neuropathy,1,1
+sciatica,26,44
+scleral deposits,1,4
+scleral discolouration,1,1
+sclerodactylia,2,2
+scleroderma,2,2
+scleroderma renal crisis,1,1
+scoliosis,5,8
+scratch,21,39
+screaming,3,4
+scrotal ulcer,1,1
+seasonal allergy,4,6
+seborrhoea,3,4
+second primary malignancy,108,157
+secondary cerebellar degeneration,1,1
+secondary immunodeficiency,1,1
+secretion discharge,24,41
+sedation,2,5
+seizure,60,85
+self esteem decreased,2,4
+senile dementia,1,1
+sensation of foreign body,7,7
+sense of oppression,2,3
+sensitisation,4,14
+sensitive skin,35,64
+sensory disturbance,16,25
+sensory loss,8,10
+sepsis,84,127
+septic rash,1,1
+septic shock,20,32
+seroma,2,2
+serotonin syndrome,2,3
+serum ferritin increased,3,4
+severe cutaneous adverse reaction,1,1
+sexual dysfunction,4,7
+shock,11,15
+shock haemorrhagic,2,2
+shoulder deformity,1,1
+sialoadenitis,1,1
+silent myocardial infarction,1,2
+sinoatrial block,1,3
+sinus arrhythmia,12,36
+sinus bradycardia,27,55
+sinus congestion,1,1
+sinus disorder,7,9
+sinus headache,2,2
+sinus node dysfunction,2,2
+sinus pain,1,1
+sinus rhythm,5,6
+sinus tachycardia,17,33
+sinusitis,38,56
+sitting disability,5,10
+sjogren's syndrome,11,32
+skeletal injury,18,35
+skin abrasion,6,15
+skin atrophy,28,41
+skin burning sensation,35,50
+skin cancer,8,12
+skin depigmentation,7,9
+skin discolouration,116,217
+skin discomfort,5,7
+skin disorder,66,110
+skin erosion,1,2
+skin exfoliation,157,256
+skin fissures,30,73
+skin fragility,2,2
+skin haemorrhage,13,26
+skin hyperpigmentation,9,10
+skin hypertrophy,13,20
+skin hypopigmentation,12,12
+skin induration,1,1
+skin infection,11,14
+skin injury,10,18
+skin irritation,33,57
+skin laceration,12,17
+skin lesion,59,75
+skin lesion inflammation,1,1
+skin mass,6,7
+skin necrosis,5,7
+skin odour abnormal,6,7
+skin oedema,3,3
+skin papilloma,2,3
+skin plaque,11,18
+skin reaction,26,45
+skin sensitisation,6,7
+skin striae,1,1
+skin swelling,7,9
+skin texture abnormal,5,8
+skin tightness,3,3
+skin toxicity,22,29
+skin ulcer,19,27
+skin warm,1,2
+skin weeping,3,4
+skin wound,6,12
+skin wrinkling,10,16
+skull fracture,1,1
+skull x-ray abnormal,1,3
+sleep apnoea syndrome,3,5
+sleep deficit,2,2
+sleep disorder,74,139
+sleep paralysis,1,6
+sluggishness,29,46
+small intestinal haemorrhage,1,1
+small intestinal obstruction,8,11
+smooth muscle antibody positive,1,1
+sneezing,22,36
+snoring,3,7
+social anxiety disorder,1,2
+social avoidant behaviour,1,1
+soft tissue disorder,2,3
+soft tissue infection,4,10
+soft tissue injury,1,4
+soft tissue necrosis,2,2
+soft tissue neoplasm,1,1
+soft tissue swelling,1,3
+solar lentigo,8,11
+somatic symptom disorder,2,3
+somnambulism,1,3
+somnolence,183,306
+speech disorder,92,133
+spinal column injury,8,12
+spinal compression fracture,8,10
+spinal cord compression,15,24
+spinal cord disorder,4,6
+spinal cord herniation,3,6
+spinal cord injury,11,18
+spinal cord injury sacral,1,1
+spinal cord injury thoracic,2,2
+spinal cord neoplasm,16,25
+spinal deformity,3,4
+spinal disorder,34,74
+spinal flattening,2,4
+spinal fracture,42,66
+spinal fusion surgery,2,2
+spinal instability,1,1
+spinal operation,1,1
+spinal osteoarthritis,8,12
+spinal pain,110,207
+spinal stenosis,6,9
+spleen disorder,1,1
+splenic cyst,1,4
+splenic thrombosis,1,2
+splenomegaly,1,1
+spondylitis,2,2
+spondylolisthesis,1,2
+sputum abnormal,1,1
+sputum discoloured,6,10
+sputum purulent,1,1
+squamous cell carcinoma,3,4
+squamous cell carcinoma of lung,1,1
+squamous cell carcinoma of the tongue,1,1
+staphylococcal bacteraemia,1,2
+staphylococcal infection,11,21
+staphylococcal sepsis,1,3
+staphylococcus test positive,1,3
+starvation,3,5
+stasis dermatitis,2,8
+status epilepticus,2,2
+steatohepatitis,2,2
+steatorrhoea,1,1
+stenosis,5,5
+sternal fracture,1,2
+stevens-johnson syndrome,6,7
+stoma site inflammation,1,1
+stomach mass,2,5
+stomach scan abnormal,1,2
+stomatitis,119,161
+stomatitis necrotising,1,1
+strabismus,3,5
+strangulated hernia,1,1
+streptobacillus infection,1,1
+streptococcal infection,1,1
+streptococcal urinary tract infection,1,1
+streptococcus test positive,1,3
+stress,102,173
+stress cardiomyopathy,2,2
+stress ulcer,1,1
+subacute cutaneous lupus erythematosus,1,2
+subarachnoid haemorrhage,2,2
+subclavian vein embolism,1,1
+subcutaneous abscess,4,6
+subcutaneous emphysema,1,1
+subdiaphragmatic abscess,1,2
+subdural haematoma,3,4
+subdural haemorrhage,1,2
+subdural hygroma,1,1
+subendocardial ischaemia,1,1
+subileus,7,10
+sudden cardiac death,1,2
+sudden death,14,15
+sudden hearing loss,1,2
+suffocation feeling,4,6
+suicidal ideation,8,9
+suicide attempt,6,6
+sunburn,3,4
+superficial inflammatory dermatosis,1,1
+superficial vein thrombosis,1,3
+superinfection,2,4
+superinfection bacterial,1,1
+superior sagittal sinus thrombosis,2,3
+superior vena cava occlusion,3,5
+supraventricular extrasystoles,10,21
+supraventricular tachyarrhythmia,1,6
+supraventricular tachycardia,10,19
+surgery,6,6
+suspected covid-19,4,4
+suture related complication,1,2
+suture rupture,1,1
+sweat discolouration,1,1
+swelling,126,197
+swelling face,51,74
+swelling of eyelid,5,8
+swollen tongue,10,16
+syncope,76,122
+synovial cyst,26,50
+systemic inflammatory response syndrome,3,5
+systemic lupus erythematosus,5,7
+systemic scleroderma,1,1
+tachyarrhythmia,5,14
+tachycardia,133,178
+tachypnoea,4,4
+taste disorder,90,138
+tearfulness,5,17
+telangiectasia,2,4
+temperature intolerance,9,14
+temperature regulation disorder,2,4
+temporomandibular joint syndrome,1,1
+tenderness,7,9
+tendon calcification,1,2
+tendon dislocation,1,1
+tendon disorder,2,2
+tendon injury,2,3
+tendon pain,3,4
+tendon rupture,1,1
+tendonitis,11,20
+tenosynovitis,2,5
+tension,19,38
+tension headache,5,18
+teratoma,1,1
+terminal insomnia,1,1
+terminal state,15,17
+tetany,1,4
+thalamic infarction,1,1
+thalamic stroke,1,1
+thalassaemia beta,1,1
+thalassaemia minor,1,2
+thecal sac compression,1,1
+therapeutic product effect decreased,3,3
+therapeutic product effect incomplete,11,12
+therapeutic response decreased,17,20
+therapeutic response unexpected,17,26
+therapy cessation,58,58
+therapy change,19,19
+therapy interrupted,46,46
+therapy naive,1,1
+therapy non-responder,23,25
+therapy partial responder,22,24
+thermal burn,14,25
+thinking abnormal,7,8
+thirst,10,19
+thoracic vertebral fracture,5,7
+throat cancer,5,9
+throat clearing,6,9
+throat irritation,49,97
+throat lesion,5,9
+throat tightness,12,25
+thrombasthenia,4,4
+thrombocytopenia,202,351
+thrombocytosis,5,5
+thrombophlebitis,5,17
+thrombophlebitis superficial,5,7
+thrombosis,147,232
+thrombotic microangiopathy,2,2
+thrombotic stroke,1,1
+thrombotic thrombocytopenic purpura,1,1
+thyroid adenoma,1,2
+thyroid cancer,2,4
+thyroid cyst,1,1
+thyroid disorder,22,57
+thyroid function test abnormal,2,2
+thyroid gland injury,1,1
+thyroid hormones increased,2,2
+thyroid mass,12,19
+thyroid neoplasm,1,1
+thyroid pain,1,3
+thyroxine decreased,1,1
+thyroxine increased,1,1
+tibia fracture,4,9
+tinnitus,20,50
+tissue infiltration,1,2
+tongue blistering,2,3
+tongue coated,4,4
+tongue discolouration,6,14
+tongue discomfort,7,14
+tongue disorder,8,14
+tongue dry,5,7
+tongue erythema,4,9
+tongue fungal infection,1,1
+tongue geographic,1,1
+tongue injury,3,7
+tongue movement disturbance,1,1
+tongue neoplasm,1,1
+tongue oedema,1,3
+tongue rough,2,2
+tongue ulceration,4,6
+tonsillar disorder,2,6
+tonsillar hypertrophy,1,1
+tonsillitis,5,10
+tooth abscess,10,17
+tooth deposit,1,2
+tooth discolouration,1,1
+tooth disorder,28,54
+tooth fracture,10,21
+tooth infection,15,24
+tooth injury,4,12
+tooth loss,11,24
+tooth pulp haemorrhage,1,1
+toothache,30,50
+torsade de pointes,5,6
+torticollis,1,1
+total lung capacity abnormal,1,1
+total lung capacity decreased,6,7
+toxic cardiomyopathy,1,1
+toxic epidermal necrolysis,1,2
+toxic skin eruption,14,15
+toxicity to various agents,57,73
+tracheal compression,1,1
+tracheal stenosis,1,1
+tracheitis,1,4
+tracheobronchitis,1,2
+transaminases abnormal,6,6
+transaminases decreased,1,3
+transaminases increased,92,137
+transferrin decreased,1,1
+transferrin saturation abnormal,1,2
+transferrin saturation decreased,1,1
+transient acantholytic dermatosis,1,1
+transient ischaemic attack,19,28
+transitional cell carcinoma,1,1
+transverse sinus thrombosis,1,1
+traumatic fracture,1,1
+traumatic lung injury,6,11
+treatment delayed,2,2
+treatment failure,22,28
+treatment noncompliance,3,3
+tremor,112,182
+trichorrhexis,7,7
+tricuspid valve incompetence,15,39
+trigeminal neuralgia,2,2
+trigger finger,4,5
+triple negative breast cancer,2,2
+triple positive breast cancer,1,1
+trismus,2,3
+troponin i increased,2,3
+troponin increased,3,3
+troponin t increased,1,8
+tuberculosis,2,2
+tubulointerstitial nephritis,4,5
+tumour associated fever,1,1
+tumour compression,1,3
+tumour excision,2,2
+tumour flare,5,8
+tumour haemorrhage,2,3
+tumour inflammation,4,8
+tumour invasion,2,2
+tumour lysis syndrome,6,6
+tumour marker abnormal,29,46
+tumour marker decreased,26,37
+tumour marker increased,186,254
+tumour necrosis,3,3
+tumour pain,13,27
+tumour thrombosis,1,1
+tumour ulceration,5,5
+tympanic membrane disorder,1,3
+type 1 diabetes mellitus,1,1
+type 2 diabetes mellitus,15,29
+type i hypersensitivity,1,1
+typhoid fever,3,4
+ulcer,24,50
+ulcer haemorrhage,4,5
+ulcerative keratitis,2,2
+ulna fracture,1,2
+ultrasound kidney abnormal,1,1
+umbilical hernia,1,1
+underdose,25,48
+underweight,8,12
+unevaluable event,14,27
+unevaluable investigation,2,5
+unresponsive to stimuli,1,1
+upper airway obstruction,2,2
+upper gastrointestinal haemorrhage,9,13
+upper limb fracture,15,26
+upper motor neurone lesion,1,1
+upper respiratory tract infection,20,27
+upper respiratory tract inflammation,1,1
+upper-airway cough syndrome,3,3
+ureteric obstruction,4,6
+ureteric stenosis,2,2
+ureteritis,1,1
+ureterolithiasis,3,9
+urethral disorder,1,1
+urethral injury,1,1
+urethral pain,1,1
+urethritis noninfective,1,1
+urinary bladder haemorrhage,1,1
+urinary hesitation,3,4
+urinary incontinence,18,23
+urinary retention,36,55
+urinary tract discomfort,1,1
+urinary tract disorder,3,5
+urinary tract infection,206,325
+urinary tract infection bacterial,3,6
+urinary tract inflammation,3,3
+urinary tract obstruction,4,9
+urinary tract pain,3,3
+urine abnormality,6,8
+urine flow decreased,1,1
+urine ketone body,1,1
+urine ketone body present,2,3
+urine odour abnormal,4,5
+urine output decreased,3,4
+urine output increased,1,1
+urine potassium increased,1,1
+urobilinogen urine increased,1,1
+urogenital haemorrhage,1,1
+urosepsis,17,33
+urticaria,86,119
+uterine cancer,2,2
+uterine disorder,3,8
+uterine enlargement,1,3
+uterine leiomyoma,6,8
+uterine neoplasm,1,1
+uterine polyp,4,11
+uterine prolapse,1,1
+uveitis,2,2
+vaginal discharge,3,7
+vaginal disorder,4,7
+vaginal fistula,1,1
+vaginal haemorrhage,19,36
+vaginal infection,2,4
+vaginal odour,1,2
+vaginal prolapse,1,2
+varicella,3,5
+varices oesophageal,4,6
+varicophlebitis,1,3
+varicose vein,14,36
+varicose vein ruptured,1,1
+vascular occlusion,1,1
+vascular pain,2,4
+vasculitic rash,1,1
+vasculitis,3,3
+vasoconstriction,4,4
+vasogenic cerebral oedema,1,1
+vein collapse,3,3
+vein disorder,19,27
+vein rupture,15,26
+vena cava thrombosis,5,9
+venous occlusion,5,9
+venous thrombosis,3,3
+venous thrombosis limb,3,3
+ventricular arrhythmia,5,11
+ventricular extrasystoles,15,22
+ventricular fibrillation,1,1
+ventricular hypertrophy,1,1
+ventricular hypokinesia,2,9
+ventricular tachycardia,7,10
+vertebral artery thrombosis,1,1
+vertebral column mass,1,1
+vertebral foraminal stenosis,1,1
+vertebral lesion,13,19
+vertebral wedging,1,2
+vertigo,50,92
+vertigo positional,2,8
+very low density lipoprotein decreased,4,6
+very low density lipoprotein increased,1,1
+vessel puncture site haemorrhage,1,2
+vestibular neuronitis,2,4
+viral diarrhoea,5,18
+viral infection,38,56
+viral labyrinthitis,1,1
+viral pharyngitis,1,1
+viral upper respiratory tract infection,1,4
+visceral congestion,1,2
+vision blurred,110,175
+visual acuity reduced,3,3
+visual field defect,2,3
+visual impairment,172,300
+visual perseveration,1,1
+vital capacity decreased,1,1
+vital functions abnormal,2,2
+vitamin b complex deficiency,2,2
+vitamin b12 decreased,5,6
+vitamin b12 deficiency,4,4
+vitamin c decreased,1,1
+vitamin d abnormal,1,1
+vitamin d decreased,12,20
+vitamin d deficiency,13,43
+vitamin e decreased,1,1
+vitiligo,25,35
+vitreous detachment,1,3
+vitreous floaters,10,14
+vocal cord disorder,3,8
+vocal cord inflammation,1,1
+vocal cord paralysis,5,7
+volume blood decreased,1,1
+volvulus,4,6
+vomiting,1077,1634
+vomiting projectile,1,2
+vulval abscess,2,4
+vulval neoplasm,1,1
+vulval ulceration,2,4
+vulvovaginal burning sensation,6,7
+vulvovaginal candidiasis,1,2
+vulvovaginal discomfort,7,8
+vulvovaginal dryness,14,21
+vulvovaginal injury,3,3
+vulvovaginal mycotic infection,2,2
+vulvovaginal pain,3,3
+waist circumference increased,3,3
+walking disability,3,3
+weight abnormal,5,8
+weight bearing difficulty,6,8
+weight decreased,389,662
+weight fluctuation,2,5
+weight gain poor,2,2
+weight increased,143,257
+weight loss poor,2,2
+wheezing,15,27
+white blood cell count,4,6
+white blood cell count abnormal,19,28
+white blood cell count decreased,1030,1544
+white blood cell count increased,43,78
+white blood cell disorder,19,33
+white blood cells urine,1,1
+white matter lesion,4,5
+withdrawal syndrome,1,1
+wolff-parkinson-white syndrome,3,5
+wound,67,122
+wound complication,7,13
+wound dehiscence,7,13
+wound haemorrhage,3,5
+wound infection,11,15
+wound necrosis,1,1
+wound secretion,1,2
+wrist fracture,9,13
+wrong dosage formulation,1,1
+wrong dose,3,7
+wrong product administered,4,9
+wrong schedule,2,2
+wrong technique in product usage process,35,42
+xerophthalmia,5,6
+xerosis,5,9
+yawning,4,18
+yellow skin,26,32
