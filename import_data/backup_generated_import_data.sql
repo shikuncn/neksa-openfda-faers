@@ -1,0 +1,561 @@
+--  ||-----  BEGIN TO IMPORT DATABASE faers --- ;
+USE faers;
+-- SET SQL_MODE='NO_BACKSLASH_ESCAPES';
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2017Q1/ascii/REAC17Q1.csv' INTO TABLE faers_reac FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2017Q2/ascii/REAC17Q2.csv' INTO TABLE faers_reac FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2017Q3/ascii/REAC17Q3.csv' INTO TABLE faers_reac FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2017Q4/ascii/REAC17Q4.csv' INTO TABLE faers_reac FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2018Q1/ascii/REAC18Q1.csv' INTO TABLE faers_reac FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2018Q2/ascii/REAC18Q2.csv' INTO TABLE faers_reac FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2018Q3/ascii/REAC18Q3.csv' INTO TABLE faers_reac FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2018Q4/ascii/REAC18Q4.csv' INTO TABLE faers_reac FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2019Q1/ascii/REAC19Q1.csv' INTO TABLE faers_reac FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2019Q2/ascii/REAC19Q2.csv' INTO TABLE faers_reac FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2019Q3/ascii/REAC19Q3.csv' INTO TABLE faers_reac FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2019Q4/ascii/REAC19Q4.csv' INTO TABLE faers_reac FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2020Q1/ASCII/REAC20Q1.csv' INTO TABLE faers_reac FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2020Q3/ASCII/REAC20Q3.csv' INTO TABLE faers_reac FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2020Q4/ASCII/REAC20Q4.csv' INTO TABLE faers_reac FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2021Q1/ASCII/REAC21Q1.csv' INTO TABLE faers_reac FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2021Q2/ASCII/REAC21Q2.csv' INTO TABLE faers_reac FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2021Q3/ASCII/REAC21Q3.csv' INTO TABLE faers_reac FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2021Q4/ASCII/REAC21Q4.csv' INTO TABLE faers_reac FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2022Q1/ASCII/REAC22Q1.csv' INTO TABLE faers_reac FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2022Q2/ASCII/REAC22Q2.csv' INTO TABLE faers_reac FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2022Q3/ASCII/REAC22Q3.csv' INTO TABLE faers_reac FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2022Q4/ASCII/REAC22Q4.csv' INTO TABLE faers_reac FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2023Q1/ASCII/REAC23Q1.csv' INTO TABLE faers_reac FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2023Q2/ASCII/REAC23Q2.csv' INTO TABLE faers_reac FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2023Q3/ASCII/REAC23Q3.csv' INTO TABLE faers_reac FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2023Q4/ASCII/REAC23Q4.csv' INTO TABLE faers_reac FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2024Q1/ASCII/REAC24Q1.csv' INTO TABLE faers_reac FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+-- --  FINSH IMPORTING DATABASE faers ----- ;
+
+ ---------- 
+--  ||-----  BEGIN TO IMPORT DATABASE faers --- ;
+USE faers;
+-- SET SQL_MODE='NO_BACKSLASH_ESCAPES';
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2017Q1/ascii/OUTC17Q1.csv' INTO TABLE faers_outc FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2017Q2/ascii/OUTC17Q2.csv' INTO TABLE faers_outc FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2017Q3/ascii/OUTC17Q3.csv' INTO TABLE faers_outc FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2017Q4/ascii/OUTC17Q4.csv' INTO TABLE faers_outc FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2018Q1/ascii/OUTC18Q1.csv' INTO TABLE faers_outc FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2018Q2/ascii/OUTC18Q2.csv' INTO TABLE faers_outc FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2018Q3/ascii/OUTC18Q3.csv' INTO TABLE faers_outc FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2018Q4/ascii/OUTC18Q4.csv' INTO TABLE faers_outc FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2019Q1/ascii/OUTC19Q1.csv' INTO TABLE faers_outc FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2019Q2/ascii/OUTC19Q2.csv' INTO TABLE faers_outc FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2019Q3/ascii/OUTC19Q3.csv' INTO TABLE faers_outc FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2019Q4/ascii/OUTC19Q4.csv' INTO TABLE faers_outc FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2020Q1/ASCII/OUTC20Q1.csv' INTO TABLE faers_outc FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2020Q3/ASCII/OUTC20Q3.csv' INTO TABLE faers_outc FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2020Q4/ASCII/OUTC20Q4.csv' INTO TABLE faers_outc FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2021Q1/ASCII/OUTC21Q1.csv' INTO TABLE faers_outc FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2021Q2/ASCII/OUTC21Q2.csv' INTO TABLE faers_outc FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2021Q3/ASCII/OUTC21Q3.csv' INTO TABLE faers_outc FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2021Q4/ASCII/OUTC21Q4.csv' INTO TABLE faers_outc FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2022Q1/ASCII/OUTC22Q1.csv' INTO TABLE faers_outc FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2022Q2/ASCII/OUTC22Q2.csv' INTO TABLE faers_outc FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2022Q3/ASCII/OUTC22Q3.csv' INTO TABLE faers_outc FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2022Q4/ASCII/OUTC22Q4.csv' INTO TABLE faers_outc FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2023Q1/ASCII/OUTC23Q1.csv' INTO TABLE faers_outc FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2023Q2/ASCII/OUTC23Q2.csv' INTO TABLE faers_outc FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2023Q3/ASCII/OUTC23Q3.csv' INTO TABLE faers_outc FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2023Q4/ASCII/OUTC23Q4.csv' INTO TABLE faers_outc FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2024Q1/ASCII/OUTC24Q1.csv' INTO TABLE faers_outc FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+-- --  FINSH IMPORTING DATABASE faers ----- ;
+
+ ---------- 
+--  ||-----  BEGIN TO IMPORT DATABASE faers --- ;
+USE faers;
+-- SET SQL_MODE='NO_BACKSLASH_ESCAPES';
+TRUNCATE  TABLE faers_drug;
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2017Q1/ascii/DRUG17Q1.csv' REPLACE  INTO TABLE faers_drug FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2017Q2/ascii/DRUG17Q2.csv' REPLACE  INTO TABLE faers_drug FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2017Q3/ascii/DRUG17Q3.csv' REPLACE  INTO TABLE faers_drug FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2017Q4/ascii/DRUG17Q4.csv' REPLACE  INTO TABLE faers_drug FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2018Q1/ascii/DRUG18Q1.csv' REPLACE  INTO TABLE faers_drug FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2018Q2/ascii/DRUG18Q2.csv' REPLACE  INTO TABLE faers_drug FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2018Q3/ascii/DRUG18Q3.csv' REPLACE  INTO TABLE faers_drug FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2018Q4/ascii/DRUG18Q4.csv' REPLACE  INTO TABLE faers_drug FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2019Q1/ascii/DRUG19Q1.csv' REPLACE  INTO TABLE faers_drug FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2019Q2/ascii/DRUG19Q2.csv' REPLACE  INTO TABLE faers_drug FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2019Q3/ascii/DRUG19Q3.csv' REPLACE  INTO TABLE faers_drug FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2019Q4/ascii/DRUG19Q4.csv' REPLACE  INTO TABLE faers_drug FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2020Q1/ASCII/DRUG20Q1.csv' REPLACE  INTO TABLE faers_drug FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2020Q3/ASCII/DRUG20Q3.csv' REPLACE  INTO TABLE faers_drug FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2020Q4/ASCII/DRUG20Q4.csv' REPLACE  INTO TABLE faers_drug FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2021Q1/ASCII/DRUG21Q1.csv' REPLACE  INTO TABLE faers_drug FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2021Q2/ASCII/DRUG21Q2.csv' REPLACE  INTO TABLE faers_drug FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2021Q3/ASCII/DRUG21Q3.csv' REPLACE  INTO TABLE faers_drug FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2021Q4/ASCII/DRUG21Q4.csv' REPLACE  INTO TABLE faers_drug FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2022Q1/ASCII/DRUG22Q1.csv' REPLACE  INTO TABLE faers_drug FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2022Q2/ASCII/DRUG22Q2.csv' REPLACE  INTO TABLE faers_drug FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2022Q3/ASCII/DRUG22Q3.csv' REPLACE  INTO TABLE faers_drug FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2022Q4/ASCII/DRUG22Q4.csv' REPLACE  INTO TABLE faers_drug FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2023Q1/ASCII/DRUG23Q1.csv' REPLACE  INTO TABLE faers_drug FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2023Q2/ASCII/DRUG23Q2.csv' REPLACE  INTO TABLE faers_drug FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2023Q3/ASCII/DRUG23Q3.csv' REPLACE  INTO TABLE faers_drug FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2023Q4/ASCII/DRUG23Q4.csv' REPLACE  INTO TABLE faers_drug FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2024Q1/ASCII/DRUG24Q1.csv' REPLACE  INTO TABLE faers_drug FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+-- --  FINSH IMPORTING DATABASE faers ----- ;
+
+ ---------- 
+--  ||-----  BEGIN TO IMPORT DATABASE faers --- ;
+USE faers;
+-- SET SQL_MODE='NO_BACKSLASH_ESCAPES';
+TRUNCATE TABLE faers_indi;
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2017Q1/ascii/INDI17Q1.txt' REPLACE  INTO TABLE faers_indi FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2017Q2/ascii/INDI17Q2.txt' REPLACE  INTO TABLE faers_indi FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2017Q3/ascii/INDI17Q3.txt' REPLACE  INTO TABLE faers_indi FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2017Q4/ascii/INDI17Q4.txt' REPLACE  INTO TABLE faers_indi FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2018Q1/ascii/INDI18Q1.txt' REPLACE  INTO TABLE faers_indi FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2018Q2/ascii/INDI18Q2.txt' REPLACE  INTO TABLE faers_indi FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2018Q3/ascii/INDI18Q3.txt' REPLACE  INTO TABLE faers_indi FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2018Q4/ascii/INDI18Q4.txt' REPLACE  INTO TABLE faers_indi FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2019Q1/ascii/INDI19Q1.txt' REPLACE  INTO TABLE faers_indi FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2019Q2/ascii/INDI19Q2.txt' REPLACE  INTO TABLE faers_indi FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2019Q3/ascii/INDI19Q3.txt' REPLACE  INTO TABLE faers_indi FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2019Q4/ascii/INDI19Q4.txt' REPLACE  INTO TABLE faers_indi FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2020Q1/ASCII/INDI20Q1.txt' REPLACE  INTO TABLE faers_indi FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2020Q3/ASCII/INDI20Q3.txt' REPLACE  INTO TABLE faers_indi FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2020Q4/ASCII/INDI20Q4.txt' REPLACE  INTO TABLE faers_indi FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2021Q1/ASCII/INDI21Q1.txt' REPLACE  INTO TABLE faers_indi FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2021Q2/ASCII/INDI21Q2.txt' REPLACE  INTO TABLE faers_indi FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2021Q3/ASCII/INDI21Q3.txt' REPLACE  INTO TABLE faers_indi FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2021Q4/ASCII/INDI21Q4.txt' REPLACE  INTO TABLE faers_indi FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2022Q1/ASCII/INDI22Q1.txt' REPLACE  INTO TABLE faers_indi FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2022Q2/ASCII/INDI22Q2.txt' REPLACE  INTO TABLE faers_indi FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2022Q3/ASCII/INDI22Q3.txt' REPLACE  INTO TABLE faers_indi FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2022Q4/ASCII/INDI22Q4.txt' REPLACE  INTO TABLE faers_indi FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2023Q1/ASCII/INDI23Q1.txt' REPLACE  INTO TABLE faers_indi FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2023Q2/ASCII/INDI23Q2.txt' REPLACE  INTO TABLE faers_indi FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2023Q3/ASCII/INDI23Q3.txt' REPLACE  INTO TABLE faers_indi FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2023Q4/ASCII/INDI23Q4.txt' REPLACE  INTO TABLE faers_indi FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2024Q1/ASCII/INDI24Q1.txt' REPLACE  INTO TABLE faers_indi FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+-- --  FINSH IMPORTING DATABASE faers ----- ;
+
+ ---------- 
+--  ||-----  BEGIN TO IMPORT DATABASE faers --- ;
+USE faers;
+-- SET SQL_MODE='NO_BACKSLASH_ESCAPES';
+TRUNCATE TABLE  faers_rpsr;
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2017Q1/ascii/RPSR17Q1.txt' REPLACE INTO TABLE faers_rpsr FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2017Q2/ascii/RPSR17Q2.txt' REPLACE INTO TABLE faers_rpsr FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2017Q3/ascii/RPSR17Q3.txt' REPLACE INTO TABLE faers_rpsr FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2017Q4/ascii/RPSR17Q4.txt' REPLACE INTO TABLE faers_rpsr FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2018Q1/ascii/RPSR18Q1.txt' REPLACE INTO TABLE faers_rpsr FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2018Q2/ascii/RPSR18Q2.txt' REPLACE INTO TABLE faers_rpsr FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2018Q3/ascii/RPSR18Q3.txt' REPLACE INTO TABLE faers_rpsr FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2018Q4/ascii/RPSR18Q4.txt' REPLACE INTO TABLE faers_rpsr FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2019Q1/ascii/RPSR19Q1.txt' REPLACE INTO TABLE faers_rpsr FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2019Q2/ascii/RPSR19Q2.txt' REPLACE INTO TABLE faers_rpsr FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2019Q3/ascii/RPSR19Q3.txt' REPLACE INTO TABLE faers_rpsr FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2019Q4/ascii/RPSR19Q4.txt' REPLACE INTO TABLE faers_rpsr FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2020Q1/ASCII/RPSR20Q1.txt' REPLACE INTO TABLE faers_rpsr FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2020Q3/ASCII/RPSR20Q3.txt' REPLACE INTO TABLE faers_rpsr FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2020Q4/ASCII/RPSR20Q4.txt' REPLACE INTO TABLE faers_rpsr FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2021Q1/ASCII/RPSR21Q1.txt' REPLACE INTO TABLE faers_rpsr FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2021Q2/ASCII/RPSR21Q2.txt' REPLACE INTO TABLE faers_rpsr FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2021Q3/ASCII/RPSR21Q3.txt' REPLACE INTO TABLE faers_rpsr FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2021Q4/ASCII/RPSR21Q4.txt' REPLACE INTO TABLE faers_rpsr FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2022Q1/ASCII/RPSR22Q1.txt' REPLACE INTO TABLE faers_rpsr FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2022Q2/ASCII/RPSR22Q2.txt' REPLACE INTO TABLE faers_rpsr FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2022Q3/ASCII/RPSR22Q3.txt' REPLACE INTO TABLE faers_rpsr FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2022Q4/ASCII/RPSR22Q4.txt' REPLACE INTO TABLE faers_rpsr FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2023Q1/ASCII/RPSR23Q1.txt' REPLACE INTO TABLE faers_rpsr FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2023Q2/ASCII/RPSR23Q2.txt' REPLACE INTO TABLE faers_rpsr FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2023Q3/ASCII/RPSR23Q3.txt' REPLACE INTO TABLE faers_rpsr FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2023Q4/ASCII/RPSR23Q4.txt' REPLACE INTO TABLE faers_rpsr FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2024Q1/ASCII/RPSR24Q1.txt' REPLACE INTO TABLE faers_rpsr FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+-- --  FINSH IMPORTING DATABASE faers ----- ;
+
+ ---------- 
+--  ||-----  BEGIN TO IMPORT DATABASE faers --- ;
+USE faers;
+-- SET SQL_MODE='NO_BACKSLASH_ESCAPES';
+TRUNCATE faers_demo;
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2017Q1/ascii/DEMO17Q1.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2017Q2/ascii/DEMO17Q2.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2017Q3/ascii/DEMO17Q3.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2017Q4/ascii/DEMO17Q4.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2018Q1/ascii/DEMO18Q1_new.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2018Q2/ascii/DEMO18Q2.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2018Q3/ascii/DEMO18Q3.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2018Q4/ascii/DEMO18Q4.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2019Q1/ascii/DEMO19Q1.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+USE faers;
+-- SET SQL_MODE='NO_BACKSLASH_ESCAPES';
+TRUNCATE faers_demo;
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2017Q1/ascii/DEMO17Q1.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2017Q2/ascii/DEMO17Q2.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2017Q3/ascii/DEMO17Q3.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2017Q4/ascii/DEMO17Q4.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2018Q1/ascii/DEMO18Q1_new.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2018Q2/ascii/DEMO18Q2.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2018Q3/ascii/DEMO18Q3.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2018Q4/ascii/DEMO18Q4.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2019Q1/ascii/DEMO19Q1.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2019Q2/ascii/DEMO19Q2.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2019Q3/ascii/DEMO19Q3.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2019Q4/ascii/DEMO19Q4.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2020Q1/ASCII/DEMO20Q1.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2020Q3/ASCII/DEMO20Q3.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2020Q4/ASCII/DEMO20Q4.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2021Q1/ASCII/DEMO21Q1.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2021Q2/ASCII/DEMO21Q2.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2021Q3/ASCII/DEMO21Q3.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2021Q4/ASCII/DEMO21Q4.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2022Q1/ASCII/DEMO22Q1.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2022Q2/ASCII/DEMO22Q2.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2022Q3/ASCII/DEMO22Q3.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2022Q4/ASCII/DEMO22Q4.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2023Q1/ASCII/DEMO23Q1.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2023Q2/ASCII/DEMO23Q2.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2023Q3/ASCII/DEMO23Q3.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2023Q4/ASCII/DEMO23Q4.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2024Q1/ASCII/DEMO24Q1.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+-- --  FINSH IMPORTING DATABASE faers ----- ;
+
+ ----------
+--  ||-----  BEGIN TO IMPORT DATABASE faers --- ;
+USE faers;
+-- SET SQL_MODE='NO_BACKSLASH_ESCAPES';
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2017Q1/ascii/THER17Q1.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2017Q2/ascii/THER17Q2.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2017Q3/ascii/THER17Q3.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2017Q4/ascii/THER17Q4.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2018Q1/ascii/THER18Q1.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2018Q2/ascii/THER18Q2.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2018Q3/ascii/THER18Q3.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2018Q4/ascii/THER18Q4.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2019Q1/ascii/THER19Q1.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2019Q2/ascii/THER19Q2.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2019Q3/ascii/THER19Q3.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2019Q4/ascii/THER19Q4.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2020Q1/ASCII/THER20Q1.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2020Q3/ASCII/THER20Q3.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2020Q4/ASCII/THER20Q4.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2021Q1/ASCII/THER21Q1.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2021Q2/ASCII/THER21Q2.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2021Q3/ASCII/THER21Q3.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2021Q4/ASCII/THER21Q4.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2022Q1/ASCII/THER22Q1.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2022Q2/ASCII/THER22Q2.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2022Q3/ASCII/THER22Q3.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2022Q4/ASCII/THER22Q4.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2023Q1/ASCII/THER23Q1.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2023Q2/ASCII/THER23Q2.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2023Q3/ASCII/THER23Q3.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2023Q4/ASCII/THER23Q4.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2024Q1/ASCII/THER24Q1.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+-- --  FINSH IMPORTING DATABASE faers ----- ;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2019Q2/ascii/DEMO19Q2.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2019Q3/ascii/DEMO19Q3.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2019Q4/ascii/DEMO19Q4.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2020Q1/ASCII/DEMO20Q1.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2020Q3/ASCII/DEMO20Q3.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2020Q4/ASCII/DEMO20Q4.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2021Q1/ASCII/DEMO21Q1.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2021Q2/ASCII/DEMO21Q2.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2021Q3/ASCII/DEMO21Q3.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2021Q4/ASCII/DEMO21Q4.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2022Q1/ASCII/DEMO22Q1.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2022Q2/ASCII/DEMO22Q2.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2022Q3/ASCII/DEMO22Q3.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2022Q4/ASCII/DEMO22Q4.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2023Q1/ASCII/DEMO23Q1.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2023Q2/ASCII/DEMO23Q2.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2023Q3/ASCII/DEMO23Q3.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2023Q4/ASCII/DEMO23Q4.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2024Q1/ASCII/DEMO24Q1.csv' INTO TABLE faers_demo FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+-- --  FINSH IMPORTING DATABASE faers ----- ;
+
+ ---------- 
+--  ||-----  BEGIN TO IMPORT DATABASE faers --- ;
+USE faers;
+-- SET SQL_MODE='NO_BACKSLASH_ESCAPES';
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2017Q1/ascii/THER17Q1.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2017Q2/ascii/THER17Q2.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2017Q3/ascii/THER17Q3.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2017Q4/ascii/THER17Q4.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2018Q1/ascii/THER18Q1.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2018Q2/ascii/THER18Q2.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2018Q3/ascii/THER18Q3.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2018Q4/ascii/THER18Q4.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2019Q1/ascii/THER19Q1.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2019Q2/ascii/THER19Q2.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2019Q3/ascii/THER19Q3.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2019Q4/ascii/THER19Q4.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2020Q1/ASCII/THER20Q1.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2020Q3/ASCII/THER20Q3.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2020Q4/ASCII/THER20Q4.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2021Q1/ASCII/THER21Q1.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2021Q2/ASCII/THER21Q2.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2021Q3/ASCII/THER21Q3.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2021Q4/ASCII/THER21Q4.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2022Q1/ASCII/THER22Q1.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2022Q2/ASCII/THER22Q2.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2022Q3/ASCII/THER22Q3.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2022Q4/ASCII/THER22Q4.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2023Q1/ASCII/THER23Q1.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2023Q2/ASCII/THER23Q2.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2023Q3/ASCII/THER23Q3.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2023Q4/ASCII/THER23Q4.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2024Q1/ASCII/THER24Q1.txt' INTO TABLE faers_ther FIELDS TERMINATED BY '$' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+
+-- --  FINSH IMPORTING DATABASE faers ----- ;
+
+
+select * from faers.faers_drug where caseid = '23353506';
