@@ -1,6 +1,32 @@
---  import pt_soc_name
+--  处理demo表去重的问题
+-- https://www.nature.com/articles/s41598-024-58460-6
+-- and then PRIMARYID. For reports with the same CASEID, we retain the one with the largest FDA_DT value. Secondly, for reports where both CASEID and FDA_DT are the same,
+-- SQL:
+DROP TABLE if exists faers.demo_dedup;
+CREATE TABLE faers.demo_dedup as
+SELECT
+        *,
+        ROW_NUMBER() OVER (PARTITION BY CASEID ORDER BY FDA_DT DESC, PRIMARYID DESC) as rn
+    FROM faers.faers_demo
+;
+
+select * from
+ faers.ribo_drug_usage R    -- from drug table: ribociclib usage
+    on  D.PRIMARYID = R.PRIMARYID
+left JOIN faers.faers_ther T ON T.PRIMARYID = R.PRIMARYID
+     and T.DSG_DRUG_SEQ = R.DRUG_SEQ
 
 
+SET @row_number := 0;
+SET @total_rows := (SELECT COUNT(*) FROM your_table);
+SELECT value,
+       @row_number := @row_number + 1 AS row_number,
+       CASE
+           WHEN @row_number IN (FLOOR((@total_rows + 1) / 2), FLOOR((@total_rows + 2) / 2)) THEN value
+           ELSE NULL
+       END AS median
+FROM your_table
+ORDER BY value;
 
 
 

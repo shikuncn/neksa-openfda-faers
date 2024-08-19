@@ -36,7 +36,7 @@ LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_a
 
 LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2021Q1/ASCII/DRUG21Q1.csv' INTO TABLE faers_drug FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
 
-LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2021Q2/ASCII/DRUG21Q2.csv' INTO TABLE faers_drug FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
+LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2021Q2/AScCII/DRUG21Q2.csv' INTO TABLE faers_drug FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
 
 LOAD DATA INFILE '/Users/liuhaoran/PycharmProjects/Faers/data/FAERS_DATA/faers_ascii_2021Q3/ASCII/DRUG21Q3.csv' INTO TABLE faers_drug FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 ROWS;
 

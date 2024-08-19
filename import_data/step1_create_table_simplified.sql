@@ -41,9 +41,9 @@ DROP TABLE IF EXISTS  faers_reac;
 CREATE TABLE faers_reac (
     PRIMARYID VARCHAR(255) NOT NULL,
     CASEID VARCHAR(255) NOT NULL,
-    PT TEXT NOT NULL
-    -- ,SOC TEXT NOT NULL
-    -- ,SOC_CODE bigint
+    PT VARCHAR(1024),
+    SOC VARCHAR(1024),
+    SOC_CODE VARCHAR(1024)
 );
 
 -- ---- csv: format ------
