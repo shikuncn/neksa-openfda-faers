@@ -1,27 +1,26 @@
 --  PT 分析 --
 --  step1: 对所有 报告版本(primaryid) 标记 THIS_DRUG/OTHER_DRUG
-DROP table faers.ror_pt_a_b;
+DROP table if exists faers.ror_pt_a_b;
 CREATE TABLE faers.ror_pt_a_b as
 select
        if(t2.primaryid is not null, 'THIS_DRUG', 'OTHER_DRUG') as drug_name
-       ,replace(t1.pt,'\\r', '') as pt
+       ,concat(SOC, ':', replace(t1.pt,'\\r', '')) as pt
        ,count(distinct t1.primaryid) as primaryid_cnt
 from faers.faers_reac t1
-left join faers.ribo_drug_usage t2
-
-on t1.primaryid = t2.primaryid
+left join
+   faers.ribo_drug_usage_retained t2  on t1.primaryid = t2.primaryid
 group by 1,2
 ;
 -- ALTER table rename faers.ror_pt_a_b faers.ror_pt_DE_dE;
 -- ALTER table faers.ror_pt_DE_dE  modify drug varchar(255) character set utf8mb3 collate utf8mb3_bin;
 -- D： DE+De;  d: dE+dE
-DROP table faers.ror_pt_D_d;
+DROP table if exists faers.ror_pt_D_d;
 CREATE TABLE faers.ror_pt_D_d as
 select
        if(t2.primaryid is not null, 'THIS_DRUG', 'OTHER_DRUG') as drug_name
        ,count(distinct t1.primaryid) as primaryid_cnt
 from faers.faers_reac t1
-left join faers.ribo_drug_usage t2
+left join faers.ribo_drug_usage_retained t2
 on t1.primaryid = t2.primaryid
 group by 1
 ;
